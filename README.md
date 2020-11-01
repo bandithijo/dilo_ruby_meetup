@@ -153,12 +153,13 @@ Materi-materi pada handout ini, masih dalam proses developing.
 3. [Ruby Programming Uses: What Can You Create?](https://www.rubyguides.com/2019/11/what-can-you-do-with-ruby/)
 
 
-
 <br>
 
 ## 📢 ORGANIZER
 
 1. [**DILo Balikpapan**](https://dilo.id/balikpapan)
+
+<br>
 
 ## 🤝 CREDIT
 
