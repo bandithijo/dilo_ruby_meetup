@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "id-ID" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <title>{{ site.title }}</title>
+  </head>
+  <body>
+    <div id="page-ctn" contenteditable="false">
+      <main id="content" class="markdown-body" role="main">
+        {{ content }}
+        <br>
+        <hr class="footer">
+        <div id="footer-box">
+          <p class="alignl">Made with ❤️ by <a href="https://bandithijo.github.io">Rizqi Nur Assyaufi - @BanditHijo</a> - 2020/11</p>
+          <p class="alignr">Powered by 🧪 <a href="https://jekyllrb.com"><b>Jekyll</b></a></p>
+          <div style="clear: both;"></div>
+        </div>
+      </main>
+    </div>
+  </body>
+</html>

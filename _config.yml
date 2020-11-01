@@ -1,0 +1,21 @@
+# PENGGUNAAN:
+# -----------------------------------------------------------------------------
+# - Instalasi gem yang diperlukan
+#   $ bundle
+#
+# - Jalankan Jekyll server
+#   $ bundle exec jekyll s
+# -----------------------------------------------------------------------------
+
+title: 'DILo Online Meetup: 💎 Ruby for Beginner'
+created_at: '2020/11'
+lang: 'id-ID'
+author: 'Rizqi Nur Assyaufi - @BanditHijo'
+author_url : 'https://bandithijo.github.io'
+
+defaults:
+  -
+    scope:
+      path: 'README.md'
+    values:
+      permalink: 'index.html'
