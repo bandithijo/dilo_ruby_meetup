@@ -10,6 +10,8 @@ layout: default
 
 🎟️ : -
 
+<br>
+
 ## 📑 HANDOUT
 
 **Catatan**: <br>
