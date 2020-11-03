@@ -37,8 +37,7 @@ Materi-materi pada handout ini, masih dalam proses developing.
     - macOS dapat menggunakan Terminal, iTerm2, Hyper
     - Windows dapat menggunakan PowerShell, cmder (recommended)
 03. **Menyiapkan Text Editor**
-    - VSCode (boleh pasang ekstension ruby-rubocop untuk Ruby linter)
-    - Vim (boleh pasang plugin vim-rubocop untuk Ruby linter)
+    - VSCode
 
 </details>
 
@@ -55,7 +54,8 @@ Materi-materi pada handout ini, masih dalam proses developing.
     - [ ] Apa yang baru dari Ruby 2.7?
     - [ ] Tips memasang Ruby untuk developer?
     - [ ] Bagaimana menulis kode & menjalankannya?<br>
-          (dengan Text Editor & IRB: comment, variable, puts, p, & print)
+          (dengan Text Editor & IRB)
+    - [ ] Ruby Style Guide
 02. **Variable**
     - [ ] Apa itu variable?
     - [ ] Scope/jangkauan dari variable?
