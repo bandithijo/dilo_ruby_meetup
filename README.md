@@ -28,7 +28,7 @@ Materi-materi pada handout ini, masih dalam proses developing.
 <details markdown="1">
   <summary style="cursor:pointer;">Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan sebelum mengikuti kelas.</summary>
 
-01. **Memasang Ruby (programming language) terlebih dahulu (versi 2.7.1)**
+01. **Memasang Ruby (programming language) terlebih dahulu (versi 2.7.2)**
     - Ubuntu & macOS dapat merujuk ke [https://gorails.com/setup](https://gorails.com/setup)<br>
       (hanya bagian installing Ruby dengan Rbenv)
     - Windows dapat merujuk ke [https://rubyinstaller.org/downloads](https://rubyinstaller.org/downloads)
