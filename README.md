@@ -19,7 +19,7 @@ Materi-materi pada handout ini, masih dalam proses developing.
 
 ⬇️ [<mark><b>Presentation Handout</b> (PDF) </mark>](/presentation/dilo_ruby-for-beginner_handout.pdf)
 
-**Terakhir diperbaharui**: 2020/11/01
+**Terakhir diperbaharui**: 2020/11/09
 
 <br>
 
@@ -73,10 +73,10 @@ Materi-materi pada handout ini, masih dalam proses developing.
     - [ ] Order of arithmetic operation
     - [ ] Times
     - [ ] Upto Downto
-06. **Comparison operators**
+06. **Comparison Operators**
     - [ ] Show the common comparison operators & methods for comparison
     - [ ] Boolean
-07. **Branching/Condition**
+08. **Branching/Condition**
     - [ ] If & Else
     - [ ] Unless
     - [ ] If/Unless for one statement
@@ -85,7 +85,7 @@ Materi-materi pada handout ini, masih dalam proses developing.
     - [ ] If nested/bertingkat
     - [ ] Case
     - [ ] Ternary operators
-08. **Collection**
+09. **Collection**
     - [ ] Array
     - [ ] Manipulate the Array<br>
           (join, push, pop, shift, unshift)
@@ -94,13 +94,13 @@ Materi-materi pada handout ini, masih dalam proses developing.
     - [ ] Manipulate the Hash<br>
           (add & delete hash item)
     - [ ] Cara alternatif menulis Array & Hash
-09. **Looping**
+10. **Looping**
     - [ ] For
     - [ ] Each
     - [ ] Map
     - [ ] Select
     - [ ] While
-10. **Method**
+11. **Method**
     - [ ] Introduction of method
     - [ ] Return value
     - [ ] Dalam kurung adalah opsional
@@ -113,17 +113,17 @@ Materi-materi pada handout ini, masih dalam proses developing.
 
     <br><b>Topik tambahan...</b>
 
-11. **File IO**
+12. **File IO**
     - [ ] Write file
     - [ ] Append file
     - [ ] Read file
     - [ ] Delete file
-12. **Error Handling**
+13. **Error Handling**
     - [ ] Begin & Rescue
     - [ ] Rescue parameter
     - [ ] Rescue specific
     - [ ] Demo: membuat Log for error
-13. **Object Oriented Programming**
+14. **Object Oriented Programming**
     - [ ] Intro OOP & Dasar OOP
     - [ ] Constructor
     - [ ] Instance variable, Class variable, Global variable
@@ -133,7 +133,7 @@ Materi-materi pada handout ini, masih dalam proses developing.
     - [ ] Inheritance
     - [ ] Super
     - [ ] Class method
-14. **Module**
+15. **Module**
     - [ ] Intro to module
     - [ ] Class module
     - [ ] Include
