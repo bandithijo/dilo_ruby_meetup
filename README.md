@@ -53,9 +53,9 @@ Materi-materi pada handout ini, masih dalam proses developing.
     - [ ] Kenapa memilih Ruby?
     - [ ] Apa yang baru dari Ruby 2.7?
     - [ ] Tips memasang Ruby untuk developer?
+    - [ ] Ruby Style Guide
     - [ ] Bagaimana menulis kode & menjalankannya?<br>
           (dengan Text Editor & IRB)
-    - [ ] Ruby Style Guide
 02. **Variable**
     - [ ] Apa itu variable?
     - [ ] Scope/jangkauan dari variable?
