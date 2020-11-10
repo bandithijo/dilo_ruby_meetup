@@ -73,18 +73,19 @@ Materi-materi pada handout ini, masih dalam proses developing.
     - [ ] Order of arithmetic operation
     - [ ] Times
     - [ ] Upto Downto
-06. **Comparison Operators**
+06. **Comparison & Logical Operators**
     - [ ] Show the common comparison operators & methods for comparison
-    - [ ] Boolean
+    - [ ] Show the common logical operators
 08. **Branching/Condition**
     - [ ] If & Else
     - [ ] Unless
     - [ ] If/Unless for one statement
-    - [ ] If, Elsif, & Else
+    - [ ] If, Elsif
+    - [ ] If, Elsif, Else
     - [ ] If with multiple condition
     - [ ] If nested/bertingkat
     - [ ] Case
-    - [ ] Ternary operators
+    - [ ] Ternary Operator
 09. **Collection**
     - [ ] Array
     - [ ] Manipulate the Array<br>
