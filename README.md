@@ -19,7 +19,7 @@ Materi-materi pada handout ini, masih dalam proses developing.
 
 ⬇️ [<mark><b>Presentation Handout</b> (PDF) </mark>](/presentation/dilo_ruby-for-beginner_handout.pdf)
 
-**Terakhir diperbaharui**: 2020/11/11
+**Terakhir diperbaharui**: 2020/11/12
 
 <br>
 
