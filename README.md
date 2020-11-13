@@ -19,7 +19,7 @@ Materi-materi pada handout ini, masih dalam proses developing.
 
 ⬇️ [<mark><b>Presentation Handout</b> (PDF) </mark>](/presentation/dilo_ruby-for-beginner_handout.pdf)
 
-**Terakhir diperbaharui**: 2020/11/12
+**Terakhir diperbaharui**: 2020/11/13
 
 <br>
 
@@ -88,11 +88,11 @@ Materi-materi pada handout ini, masih dalam proses developing.
     - [ ] Ternary Operator
 09. **Collection**
     - [ ] Array
-    - [ ] Manipulate the Array<br>
+    - [ ] Array Modification<br>
           (join, push, pop, shift, unshift)
     - [ ] Hash
     - [ ] Hash default value
-    - [ ] Manipulate the Hash<br>
+    - [ ] Hash Modification<br>
           (add & delete hash item)
     - [ ] Cara alternatif menulis Array & Hash
 10. **Looping**
