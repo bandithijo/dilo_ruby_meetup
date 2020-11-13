@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ooo="http://openoffice.org/2004/office" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:initial-creator>Rizqi Nur Assyaufi</meta:initial-creator><meta:creation-date>2020-09-08T07:14:57.089656681</meta:creation-date><dc:date>2020-11-14T01:44:00.613032275</dc:date><dc:creator>Rizqi Nur Assyaufi</dc:creator><meta:editing-duration>P4DT8H19M58S</meta:editing-duration><meta:editing-cycles>1042</meta:editing-cycles><meta:generator>LibreOffice/6.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:object-count="820"/></office:meta>
+ <office:meta><meta:initial-creator>Rizqi Nur Assyaufi</meta:initial-creator><meta:creation-date>2020-09-08T07:14:57.089656681</meta:creation-date><dc:date>2020-11-14T01:51:01.237238755</dc:date><dc:creator>Rizqi Nur Assyaufi</dc:creator><meta:editing-duration>P4DT8H26M58S</meta:editing-duration><meta:editing-cycles>1045</meta:editing-cycles><meta:generator>LibreOffice/6.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:object-count="820"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-6276</config:config-item>
@@ -29,7 +29,7 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">true</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">79</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">97</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">false</config:config-item>
@@ -8561,11 +8561,11 @@
    <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.883cm" fo:min-width="0cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr540" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L5">
+  <style:style style:name="gr540" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L7">
    <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="13.825cm" fo:min-width="11.45cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr541" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L5">
+  <style:style style:name="gr541" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L7">
    <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="13.825cm" fo:min-width="11.45cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
@@ -8573,8 +8573,8 @@
    <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="3.439cm" fo:min-width="0cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr543" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L5">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="2.95cm" fo:min-width="23.25cm"/>
+  <style:style style:name="gr543" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L7">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="2.95cm" fo:min-width="21.5cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr544" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
@@ -8582,7 +8582,7 @@
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr545" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L5">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="2.95cm" fo:min-width="23.85cm"/>
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="2.95cm" fo:min-width="22.1cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr546" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
@@ -9567,6 +9567,90 @@
    </text:list-level-style-bullet>
   </text:list-style>
   <text:list-style style:name="L5">
+   <text:list-level-style-number text:level="1" style:num-suffix=")" style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.6cm"/>
+    <style:text-properties style:use-window-font-color="true" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" style:num-suffix=")" style:num-format="1">
+    <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+    <style:text-properties style:use-window-font-color="true" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" style:num-suffix=")" style:num-format="1">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+    <style:text-properties style:use-window-font-color="true" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" style:num-suffix=")" style:num-format="1">
+    <style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+    <style:text-properties style:use-window-font-color="true" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" style:num-suffix=")" style:num-format="1">
+    <style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+    <style:text-properties style:use-window-font-color="true" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" style:num-suffix=")" style:num-format="1">
+    <style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+    <style:text-properties style:use-window-font-color="true" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" style:num-suffix=")" style:num-format="1">
+    <style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+    <style:text-properties style:use-window-font-color="true" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" style:num-suffix=")" style:num-format="1">
+    <style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+    <style:text-properties style:use-window-font-color="true" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" style:num-suffix=")" style:num-format="1">
+    <style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+    <style:text-properties style:use-window-font-color="true" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" style:num-suffix=")" style:num-format="1">
+    <style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+    <style:text-properties style:use-window-font-color="true" fo:font-size="100%"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L6">
+   <text:list-level-style-number text:level="1" style:num-suffix=")" style:num-format="1">
+    <style:list-level-properties text:min-label-width="0.6cm"/>
+    <style:text-properties style:use-window-font-color="true" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" style:num-suffix=")" style:num-format="1">
+    <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+    <style:text-properties style:use-window-font-color="true" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" style:num-suffix=")" style:num-format="1">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+    <style:text-properties style:use-window-font-color="true" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" style:num-suffix=")" style:num-format="1">
+    <style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+    <style:text-properties style:use-window-font-color="true" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" style:num-suffix=")" style:num-format="1">
+    <style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+    <style:text-properties style:use-window-font-color="true" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" style:num-suffix=")" style:num-format="1">
+    <style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+    <style:text-properties style:use-window-font-color="true" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" style:num-suffix=")" style:num-format="1">
+    <style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+    <style:text-properties style:use-window-font-color="true" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" style:num-suffix=")" style:num-format="1">
+    <style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+    <style:text-properties style:use-window-font-color="true" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" style:num-suffix=")" style:num-format="1">
+    <style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+    <style:text-properties style:use-window-font-color="true" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" style:num-suffix=")" style:num-format="1">
+    <style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+    <style:text-properties style:use-window-font-color="true" fo:font-size="100%"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L7">
    <text:list-level-style-number text:level="1" style:num-suffix=")" style:num-format="1">
     <style:list-level-properties text:min-label-width="0.6cm"/>
     <style:text-properties style:use-window-font-color="true" fo:font-size="100%"/>
@@ -30076,7 +30160,7 @@
      </draw:custom-shape>
      <draw:frame draw:style-name="gr54" draw:text-style-name="P35" draw:layer="layout" svg:width="24.8cm" svg:height="2.655cm" svg:x="1.6cm" svg:y="14.156cm">
       <draw:text-box>
-       <text:p text:style-name="P34"><text:span text:style-name="T35">Just because Ruby is not popular anymore, it doesn&apos;t mean Ruby is dead, right?</text:span></text:p>
+       <text:p text:style-name="P34"><text:span text:style-name="T35">Just because Ruby is not popular anymore, </text:span><text:span text:style-name="T35">it doesn&apos;t mean Ruby is dead, right?</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
@@ -32406,7 +32490,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr201" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Mengecek Class dari Variabel</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Mengecek Class dari </text:span><text:span text:style-name="T16">Variabel</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr202" draw:text-style-name="P42" draw:layer="layout" svg:width="25.8cm" svg:height="2.665cm" svg:x="0.8cm" svg:y="3.501cm">
@@ -39785,7 +39869,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr522" draw:text-style-name="P65" draw:layer="layout" svg:width="26.4cm" svg:height="2.576cm" svg:x="0.8cm" svg:y="4.301cm">
      <draw:text-box>
-      <text:p xml:id="id819" text:id="id819" text:style-name="P64"><text:span text:style-name="T56">Deletes every key-value pair from hsh for which block evaluates </text:span><text:span text:style-name="T56">to true.</text:span></text:p>
+      <text:p xml:id="id819" text:id="id819" text:style-name="P64"><text:span text:style-name="T56">Deletes every key-value pair from hash for which block </text:span><text:span text:style-name="T56">evaluates to true.</text:span></text:p>
       <text:p xml:id="id820" text:id="id820" text:style-name="P64"><text:span text:style-name="T56">If no block is given, an enumerator is returned instead.</text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -39983,7 +40067,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr532" draw:text-style-name="P72" draw:layer="layout" svg:width="26.2cm" svg:height="1.979cm" svg:x="0.8cm" svg:y="3.885cm">
      <draw:text-box>
-      <text:p text:style-name="P11"><text:span text:style-name="T123">Gunakan prefix “ruby” sebagai awalan kata kunci untu mencari di Google.</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T123">Gunakan prefix “ruby” sebagai awalan kata kunci untu </text:span><text:span text:style-name="T123">mencari di Google.</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
@@ -40052,7 +40136,7 @@
     </draw:g>
     <draw:frame draw:style-name="gr538" draw:text-style-name="P72" draw:layer="layout" svg:width="26.2cm" svg:height="1.979cm" svg:x="0.8cm" svg:y="16.187cm">
      <draw:text-box>
-      <text:p text:style-name="P11"><text:span text:style-name="T123">Dengan cara ini, kita dapat membuat hasil pencarian yang lebih spesifik untuk bahasa pemrograman Ruby. </text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T123">Dengan cara ini, kita dapat membuat hasil pencarian yang </text:span><text:span text:style-name="T123">lebih spesifik untuk bahasa pemrograman Ruby. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -40141,34 +40225,34 @@
     <draw:frame draw:style-name="gr542" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.719cm" svg:y="2.767cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Referensi </text:span><text:span text:style-name="T127">Group</text:span><text:span text:style-name="T16"> Telegram </text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T16"><text:s text:c="2"/></text:span><text:span text:style-name="T16">untuk Bertanya seputar Ruby</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16"><text:s text:c="2"/></text:span><text:span text:style-name="T16">untuk Bertanya seputar </text:span><text:span text:style-name="T16">Ruby</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr543" draw:text-style-name="P75" draw:layer="layout" svg:width="23.75cm" svg:height="3.2cm" svg:x="1.05cm" svg:y="6.9cm">
+    <draw:frame draw:style-name="gr543" draw:text-style-name="P75" draw:layer="layout" svg:width="22cm" svg:height="3.2cm" svg:x="2.8cm" svg:y="6.9cm">
      <draw:text-box>
-      <text:list text:style-name="L1">
+      <text:list text:style-name="L5">
        <text:list-item>
-        <text:p><text:span text:style-name="T11"><text:a xlink:href="https://t.me/ruby_id" xlink:type="simple">Ruby Indonesia</text:a></text:span></text:p>
+        <text:p><text:span text:style-name="T11"><text:s/></text:span><text:span text:style-name="T11"><text:a xlink:href="https://t.me/ruby_id" xlink:type="simple">Ruby Indonesia</text:a></text:span></text:p>
        </text:list-item>
       </text:list>
-      <text:list text:style-name="L4">
+      <text:list text:style-name="L6">
        <text:list-item>
-        <text:p><text:span text:style-name="T11"><text:a xlink:href="https://t.me/RailsID" xlink:type="simple">Rails Indonesia</text:a></text:span></text:p>
+        <text:p><text:span text:style-name="T11"><text:s/></text:span><text:span text:style-name="T11"><text:a xlink:href="https://t.me/RailsID" xlink:type="simple">Rails Indonesia</text:a></text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr544" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.72cm" svg:y="11.368cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Referensi </text:span><text:span text:style-name="T127">Channel</text:span><text:span text:style-name="T16"> Telegram </text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Referensi </text:span><text:span text:style-name="T127">Channel</text:span><text:span text:style-name="T16"> Telegram </text:span><text:span text:style-name="T16"></text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T16"><text:s text:c="2"/></text:span><text:span text:style-name="T16">untuk Berita tentang Ruby</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr545" draw:text-style-name="P75" draw:layer="layout" svg:width="24.35cm" svg:height="3.2cm" svg:x="1.05cm" svg:y="15.5cm">
+    <draw:frame draw:style-name="gr545" draw:text-style-name="P75" draw:layer="layout" svg:width="22.6cm" svg:height="3.2cm" svg:x="2.8cm" svg:y="15.5cm">
      <draw:text-box>
-      <text:list text:style-name="L1">
+      <text:list text:style-name="L5">
        <text:list-item>
-        <text:p><text:span text:style-name="T11"><text:a xlink:href="https://t.me/rubyinside" xlink:type="simple">Ruby/Rails Inside</text:a></text:span></text:p>
+        <text:p><text:span text:style-name="T11"><text:s/></text:span><text:span text:style-name="T11"><text:a xlink:href="https://t.me/rubyinside" xlink:type="simple">Ruby/Rails Inside</text:a></text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -40182,12 +40266,12 @@
    </draw:page>
    <draw:page draw:name="page109" draw:style-name="dp10" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame draw:style-name="gr546" draw:text-style-name="P76" draw:layer="layout" svg:width="21.62cm" svg:height="3.092cm" svg:x="3.19cm" svg:y="8.954cm">
+    <draw:frame draw:style-name="gr546" draw:text-style-name="P76" draw:layer="layout" svg:width="21.62cm" svg:height="3.092cm" svg:x="3.19cm" svg:y="7.954cm">
      <draw:text-box>
       <text:p text:style-name="P70"><text:span text:style-name="T128"><text:s/></text:span><text:span text:style-name="T128">:Terima_Kasih </text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr547" draw:text-style-name="P25" draw:layer="layout" svg:width="19.079cm" svg:height="2.843cm" svg:x="3.2cm" svg:y="12.457cm">
+    <draw:frame draw:style-name="gr547" draw:text-style-name="P25" draw:layer="layout" svg:width="19.079cm" svg:height="2.843cm" svg:x="3.2cm" svg:y="11.457cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T129">&gt; Made with  by Rizqi Nur Assyaufi</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T129"><text:s text:c="2"/></text:span><text:span text:style-name="T129">@BanditHijo</text:span></text:p>
