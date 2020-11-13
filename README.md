@@ -19,7 +19,7 @@ Materi-materi pada handout ini, masih dalam proses developing.
 
 ⬇️ [<mark><b>Presentation Handout</b> (PDF) </mark>](/presentation/dilo_ruby-for-beginner_handout.pdf)
 
-**Terakhir diperbaharui**: 2020/11/13
+**Terakhir diperbaharui**: 2020/11/14
 
 <br>
 
@@ -91,10 +91,8 @@ Materi-materi pada handout ini, masih dalam proses developing.
     - [ ] Array Modification<br>
           (join, push, pop, shift, unshift)
     - [ ] Hash
-    - [ ] Hash default value
     - [ ] Hash Modification<br>
-          (add & delete hash item)
-    - [ ] Cara alternatif menulis Array & Hash
+          (add, delete)
 10. **Looping**
     - [ ] For
     - [ ] Each
