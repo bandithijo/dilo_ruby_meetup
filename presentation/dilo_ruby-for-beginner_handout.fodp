@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ooo="http://openoffice.org/2004/office" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:initial-creator>Rizqi Nur Assyaufi</meta:initial-creator><meta:creation-date>2020-09-08T07:14:57.089656681</meta:creation-date><dc:date>2020-11-14T15:49:04.975913029</dc:date><dc:creator>Rizqi Nur Assyaufi</dc:creator><meta:editing-duration>P4DT18H40M31S</meta:editing-duration><meta:editing-cycles>1092</meta:editing-cycles><meta:generator>LibreOffice/6.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:object-count="917"/></office:meta>
+ <office:meta><meta:initial-creator>Rizqi Nur Assyaufi</meta:initial-creator><meta:creation-date>2020-09-08T07:14:57.089656681</meta:creation-date><dc:date>2020-11-15T00:01:38.215155273</dc:date><dc:creator>Rizqi Nur Assyaufi</dc:creator><meta:editing-duration>P5DT2H53M3S</meta:editing-duration><meta:editing-cycles>1094</meta:editing-cycles><meta:generator>LibreOffice/6.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:object-count="917"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">-6276</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-431</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">10357</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaWidth" config:type="int">29412</config:config-item>
    <config:config-item config:name="VisibleAreaHeight" config:type="int">34211</config:config-item>
    <config:config-item-map-indexed config:name="Views">
@@ -29,16 +29,16 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">true</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">106</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">121</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">false</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-6276</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-431</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">29413</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">34212</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-311</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-1712</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">31479</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">21635</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2000</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2000</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">200</config:config-item>
@@ -9993,7 +9993,7 @@
       </draw:frame>
       <draw:frame draw:style-name="gr6" draw:text-style-name="P10" draw:layer="layout" svg:width="10.746cm" svg:height="1.195cm" svg:x="10.335cm" svg:y="9.297cm">
        <draw:text-box>
-        <text:p><text:span text:style-name="T3"> </text:span><text:span text:style-name="T3">bandithijo.github.io</text:span></text:p>
+        <text:p><text:span text:style-name="T3"> </text:span><text:span text:style-name="T3">bandithijo.gi</text:span><text:span text:style-name="T3">thub.io</text:span></text:p>
        </draw:text-box>
       </draw:frame>
       <draw:frame draw:style-name="gr7" draw:text-style-name="P10" draw:layer="layout" svg:width="14.472cm" svg:height="1.195cm" svg:x="10.335cm" svg:y="10.698cm">
@@ -14537,9 +14537,9 @@
      </draw:frame>
      <draw:frame draw:style-name="gr16" draw:text-style-name="P17" draw:layer="layout" svg:width="6.098cm" svg:height="1.798cm" svg:x="19.65cm" svg:y="14.664cm">
       <draw:text-box>
-       <text:p text:style-name="P16"><text:span text:style-name="T7">/GNULinuxIndonesia /VimID</text:span></text:p>
-       <text:p text:style-name="P16"><text:span text:style-name="T7">/JekyllID /ArchLinuxID</text:span></text:p>
-       <text:p text:style-name="P16"><text:span text:style-name="T7">/dotfiles_id /ruby_id</text:span></text:p>
+       <text:p text:style-name="P16"><text:span text:style-name="T7">/</text:span><text:span text:style-name="T7">GNULinuxIndonesia </text:span><text:span text:style-name="T7">/VimID</text:span></text:p>
+       <text:p text:style-name="P16"><text:span text:style-name="T7">/JekyllID </text:span><text:span text:style-name="T7">/ArchLinuxID</text:span></text:p>
+       <text:p text:style-name="P16"><text:span text:style-name="T7">/dotfiles_id </text:span><text:span text:style-name="T7">/ruby_id</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
@@ -14576,7 +14576,7 @@
      <draw:g>
       <draw:frame draw:style-name="gr19" draw:text-style-name="P19" draw:layer="layout" svg:width="6.894cm" svg:height="1.542cm" svg:x="5.106cm" svg:y="2.86cm">
        <draw:text-box>
-        <text:p><text:span text:style-name="T8">bandithijo</text:span></text:p>
+        <text:p><text:span text:style-name="T8">bandith</text:span><text:span text:style-name="T8">ijo</text:span></text:p>
        </draw:text-box>
       </draw:frame>
      </draw:g>
@@ -19083,9 +19083,9 @@
      </draw:frame>
      <draw:frame draw:style-name="gr24" draw:text-style-name="P23" draw:layer="layout" svg:width="7.614cm" svg:height="2.834cm" svg:x="18.912cm" svg:y="7.8cm">
       <draw:text-box>
-       <text:p text:style-name="P21"><text:span text:style-name="T11">Agung Setiawan</text:span></text:p>
+       <text:p text:style-name="P21"><text:span text:style-name="T11">Agung </text:span><text:span text:style-name="T11">Setiawan</text:span></text:p>
        <text:p text:style-name="P21"><text:span text:style-name="T12">IDRails.com</text:span></text:p>
-       <text:p text:style-name="P21"><text:span text:style-name="T12">Online Course</text:span></text:p>
+       <text:p text:style-name="P21"><text:span text:style-name="T12">Online </text:span><text:span text:style-name="T12">Course</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
@@ -28987,7 +28987,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr35" draw:text-style-name="P28" draw:layer="layout" svg:width="18.705cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.801cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Nate Hopkins @hopsoft - https://twitter.com/hopsoft/status/1169706322851328000</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Nate Hopkins @hopsoft - </text:span><text:span text:style-name="T19">https://twitter.com/hopsoft/status/1169706322851328000</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g xml:id="id22" draw:id="id22">
@@ -29953,7 +29953,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr42" draw:text-style-name="P28" draw:layer="layout" svg:width="20.399cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.801cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby Lang Success Stories - http://www.ruby-lang.org/en/documentation/success-stories/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby Lang Success Stories - </text:span><text:span text:style-name="T19">http://www.ruby-lang.org/en/documentation/success-stories/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <anim:par presentation:node-type="timing-root">
@@ -30333,7 +30333,7 @@
      </draw:custom-shape>
      <draw:frame draw:style-name="gr54" draw:text-style-name="P35" draw:layer="layout" svg:width="24.8cm" svg:height="2.655cm" svg:x="1.6cm" svg:y="14.156cm">
       <draw:text-box>
-       <text:p text:style-name="P34"><text:span text:style-name="T35">Just because Ruby is not popular </text:span><text:span text:style-name="T35">anymore, it doesn&apos;t mean Ruby is </text:span><text:span text:style-name="T35">dead, right?</text:span></text:p>
+       <text:p text:style-name="P34"><text:span text:style-name="T35">Just because Ruby is not </text:span><text:span text:style-name="T35">popular anymore, it </text:span><text:span text:style-name="T35">doesn&apos;t mean Ruby is </text:span><text:span text:style-name="T35">dead, right?</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
@@ -30394,7 +30394,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr55" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Kenapa Memilih Ruby?</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Kenapa Memilih </text:span><text:span text:style-name="T16">Ruby?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr56" draw:text-style-name="P26" draw:layer="layout" svg:width="25.648cm" svg:height="12.523cm" svg:x="0.694cm" svg:y="3.501cm">
@@ -30655,7 +30655,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr60" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; What’s new on Ruby 2.7?</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; What’s new on </text:span><text:span text:style-name="T16">Ruby 2.7?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr61" draw:text-style-name="P26" draw:layer="layout" svg:width="26.506cm" svg:height="12.523cm" svg:x="0.694cm" svg:y="3.501cm">
@@ -30676,7 +30676,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr62" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuide – Jesus Castello - https://www.rubyguides.com/2019/12/ruby-2-7-new-features/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuide – Jesus Castello - </text:span><text:span text:style-name="T19">https://www.rubyguides.com/2019/12/ruby-2-7-new-features/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <anim:par presentation:node-type="timing-root">
@@ -30774,12 +30774,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr63" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; What’s new on Ruby 2.7?</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; What’s new on </text:span><text:span text:style-name="T16">Ruby 2.7?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr64" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuide – Jesus Castello - https://www.rubyguides.com/2019/12/ruby-2-7-new-features/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuide – Jesus Castello - </text:span><text:span text:style-name="T19">https://www.rubyguides.com/2019/12/ruby-2-7-new-features/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g xml:id="id101" draw:id="id101">
@@ -30806,7 +30806,7 @@
      </draw:custom-shape>
      <draw:frame draw:style-name="gr66" draw:text-style-name="P36" draw:layer="layout" svg:width="24.8cm" svg:height="1.453cm" svg:x="1.601cm" svg:y="5.14cm">
       <draw:text-box>
-       <text:p text:style-name="P34"><text:span text:style-name="T35"> <text:s/></text:span><text:span text:style-name="T35">Ruby NEVER STOPS Improving!</text:span></text:p>
+       <text:p text:style-name="P34"><text:span text:style-name="T35"> <text:s/></text:span><text:span text:style-name="T35">Ruby NEVER STOPS </text:span><text:span text:style-name="T35">Improving!</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
@@ -30874,12 +30874,12 @@
     </draw:frame>
     <draw:frame draw:style-name="gr69" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Tips Memasang Ruby for </text:span><text:span text:style-name="T16">Dev</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Tips Memasang </text:span><text:span text:style-name="T16">Ruby for Dev</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr70" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: GoRails.com - https://gorails.com/setup/ubuntu/20.04#ruby-rbenv</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: GoRails.com - https://gorails.com/setup/ubuntu/20.04#ruby-</text:span><text:span text:style-name="T19">rbenv</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr71" draw:text-style-name="P36" draw:layer="layout" svg:width="25.599cm" svg:height="1.631cm" svg:x="1.001cm" svg:y="3.44cm">
@@ -30907,7 +30907,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr73" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.203cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Rbenv (GitHub) - https://github.com/rbenv/rbenv/blob/master/README.md</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Rbenv (GitHub) - </text:span><text:span text:style-name="T19">https://github.com/rbenv/rbenv/blob/master/README.md</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr74" draw:text-style-name="P39" xml:id="id107" draw:id="id107" draw:layer="layout" svg:width="11.5cm" svg:height="3.8cm" svg:x="15.8cm" svg:y="13.9cm">
@@ -31035,27 +31035,27 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr75" draw:text-style-name="P37" draw:layer="layout" svg:width="25.6cm" svg:height="1.3cm" svg:x="1cm" svg:y="5.5cm">
      <draw:text-box>
-      <text:p text:style-name="P24"><text:span text:style-name="T40">Verify that rbenv is properly set up</text:span><text:span text:style-name="T37">:</text:span></text:p>
+      <text:p text:style-name="P24"><text:span text:style-name="T40">Verify that rbenv is properly </text:span><text:span text:style-name="T40">set up</text:span><text:span text:style-name="T37">:</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr76" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Tips Memasang Ruby for </text:span><text:span text:style-name="T16">Dev</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Tips Memasang </text:span><text:span text:style-name="T16">Ruby for Dev</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr77" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: GoRails.com - https://gorails.com/setup/ubuntu/20.04#ruby-rbenv</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: GoRails.com - https://gorails.com/setup/ubuntu/20.04#ruby-</text:span><text:span text:style-name="T19">rbenv</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr78" draw:text-style-name="P36" draw:layer="layout" svg:width="25.599cm" svg:height="1.631cm" svg:x="1.001cm" svg:y="3.44cm">
      <draw:text-box>
-      <text:p text:style-name="P34"><text:span text:style-name="T38">Groom your app’s Ruby env. </text:span><text:span text:style-name="T38">with </text:span><text:span text:style-name="T39">Rbenv</text:span></text:p>
+      <text:p text:style-name="P34"><text:span text:style-name="T38">Groom your app’s Ruby </text:span><text:span text:style-name="T38">env. with </text:span><text:span text:style-name="T39">Rbenv</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr79" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.203cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Rbenv (GitHub) - https://github.com/rbenv/rbenv/blob/master/README.md</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Rbenv (GitHub) - </text:span><text:span text:style-name="T19">https://github.com/rbenv/rbenv/blob/master/README.md</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr74" draw:text-style-name="P39" draw:layer="layout" svg:width="11.5cm" svg:height="3.8cm" svg:x="15.8cm" svg:y="13.9cm">
@@ -31154,7 +31154,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr83" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Ruby Style Guide</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Ruby Style </text:span><text:span text:style-name="T16">Guide</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr84" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
@@ -31253,7 +31253,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr91" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Ruby Style Guide</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Ruby Style </text:span><text:span text:style-name="T16">Guide</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr92" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
@@ -31336,7 +31336,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr98" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Ruby Style Guide</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Ruby Style </text:span><text:span text:style-name="T16">Guide</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr99" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
@@ -31419,7 +31419,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr105" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Ruby Style Guide</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Ruby Style </text:span><text:span text:style-name="T16">Guide</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr106" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
@@ -31507,7 +31507,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr112" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Ruby Style Guide</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Ruby Style </text:span><text:span text:style-name="T16">Guide</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr113" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
@@ -31526,7 +31526,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr115" draw:text-style-name="P42" draw:layer="layout" svg:width="25.8cm" svg:height="1.284cm" svg:x="0.8cm" svg:y="3.1cm">
      <draw:text-box>
-      <text:p text:style-name="P11"><text:span text:style-name="T59">Spaces &amp; Operators (Exceptions)</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T59">Spaces &amp; Operators </text:span><text:span text:style-name="T59">(Exceptions)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr116" draw:text-style-name="P45" xml:id="id153" draw:id="id153" draw:layer="layout" svg:width="12.4cm" svg:height="1.1cm" svg:x="0.8cm" svg:y="4.9cm">
@@ -31667,7 +31667,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr127" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Ruby Style Guide</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Ruby Style </text:span><text:span text:style-name="T16">Guide</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr128" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
@@ -31760,7 +31760,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr134" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Ruby Style Guide</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Ruby Style </text:span><text:span text:style-name="T16">Guide</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr135" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
@@ -31874,7 +31874,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr145" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Ruby Style Guide</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Ruby Style </text:span><text:span text:style-name="T16">Guide</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr146" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
@@ -32023,7 +32023,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr157" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Ruby Style Guide</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Ruby Style </text:span><text:span text:style-name="T16">Guide</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr158" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
@@ -32169,7 +32169,7 @@
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T59">More...,</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T59"/></text:p>
-      <text:p text:style-name="P24"><text:span text:style-name="T68">The Ruby Style Guide</text:span></text:p>
+      <text:p text:style-name="P24"><text:span text:style-name="T68">The Ruby Style </text:span><text:span text:style-name="T68">Guide</text:span></text:p>
       <text:p text:style-name="P24"><text:span text:style-name="T69">https://rubystyle.guide</text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -32184,7 +32184,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr171" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="3.092cm" svg:x="2.36cm" svg:y="8.954cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T55"> </text:span><text:span text:style-name="T55">IRB </text:span><text:span text:style-name="T70">(Interactive Ruby Shell)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T55"> </text:span><text:span text:style-name="T55">IRB </text:span><text:span text:style-name="T70">(Interactive </text:span><text:span text:style-name="T70">Ruby Shell)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -32203,7 +32203,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr173" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2018/12/what-is-a-repl-in-ruby/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2018/12/what-is-a-</text:span><text:span text:style-name="T19">repl-in-ruby/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr174" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="4.126cm" svg:x="0.8cm" svg:y="3.5cm">
@@ -32386,7 +32386,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr188" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="3.092cm" svg:x="2.36cm" svg:y="8.954cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T55"> </text:span><text:span text:style-name="T55">.rb </text:span><text:span text:style-name="T70">(dot rb file)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T55"> </text:span><text:span text:style-name="T55">.rb </text:span><text:span text:style-name="T70">(dot rb </text:span><text:span text:style-name="T70">file)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -32511,12 +32511,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr197" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Apa itu Variabel?</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Apa itu </text:span><text:span text:style-name="T16">Variabel?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr198" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/ruby-tutorial/variables/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - </text:span><text:span text:style-name="T19">https://www.rubyguides.com/ruby-tutorial/variables/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr199" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="8.09cm" svg:x="0.8cm" svg:y="3.5cm">
@@ -32663,7 +32663,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr201" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Mengecek Class dari </text:span><text:span text:style-name="T16">Variabel</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Mengecek Class </text:span><text:span text:style-name="T16">dari Variabel</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr202" draw:text-style-name="P42" draw:layer="layout" svg:width="25.8cm" svg:height="2.665cm" svg:x="0.8cm" svg:y="3.501cm">
@@ -32804,7 +32804,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr206" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/ruby-tutorial/variables/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - </text:span><text:span text:style-name="T19">https://www.rubyguides.com/ruby-tutorial/variables/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr207" draw:text-style-name="P42" xml:id="id238" draw:id="id238" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="6.5cm">
@@ -32927,7 +32927,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr218" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2019/03/ruby-scope-binding/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2019/03/ruby-scope-</text:span><text:span text:style-name="T19">binding/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr219" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="11.127cm" svg:x="0.8cm" svg:y="3.5cm">
@@ -32944,7 +32944,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr220" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.203cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/ruby-tutorial/variables/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - </text:span><text:span text:style-name="T19">https://www.rubyguides.com/ruby-tutorial/variables/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <anim:par presentation:node-type="timing-root">
@@ -32997,7 +32997,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr221" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="5.933cm" svg:x="2.36cm" svg:y="7.534cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T55">Puts, Print, P</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T55">Puts, </text:span><text:span text:style-name="T55">Print, P</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T55">Console</text:span><text:span text:style-name="T13"> </text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -33159,7 +33159,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr230" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="5.933cm" svg:x="2.36cm" svg:y="7.534cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T13">Working with</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13">Working </text:span><text:span text:style-name="T13">with</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T55">String (a)</text:span><text:span text:style-name="T13"> </text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -33176,15 +33176,15 @@
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; String Concatenation</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; String Interpolation</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Mengecek Method pada Class</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; String Method yang Biasa Digunakan</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Mengecek Method pada </text:span><text:span text:style-name="T35">Class</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; String Method yang </text:span><text:span text:style-name="T35">Biasa Digunakan</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Escaping Character</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr232" draw:text-style-name="P25" draw:layer="layout" svg:width="23.842cm" svg:height="5.933cm" svg:x="1.8cm" svg:y="2.535cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T13">.Working with</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T55"><text:s/></text:span><text:span text:style-name="T55">String (a)</text:span><text:span text:style-name="T13"> </text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13">.Working </text:span><text:span text:style-name="T13">with</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T55"><text:s/></text:span><text:span text:style-name="T55">String </text:span><text:span text:style-name="T55">(a)</text:span><text:span text:style-name="T13"> </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -33198,12 +33198,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr233" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; String Concatenation</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; String </text:span><text:span text:style-name="T16">Concatenation</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr234" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2019/07/ruby-string-concatenation/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2019/07/ruby-string-</text:span><text:span text:style-name="T19">concatenation/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr235" draw:text-style-name="P42" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="3.501cm">
@@ -33331,12 +33331,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr238" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; String Concatenation</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; String </text:span><text:span text:style-name="T16">Concatenation</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr239" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2019/07/ruby-string-concatenation/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2019/07/ruby-string-</text:span><text:span text:style-name="T19">concatenation/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr240" draw:text-style-name="P41" xml:id="id279" draw:id="id279" draw:layer="layout" svg:width="26.2cm" svg:height="6.451cm" svg:x="0.9cm" svg:y="6.302cm">
@@ -33432,12 +33432,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr243" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; String Concatenation</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; String </text:span><text:span text:style-name="T16">Concatenation</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr244" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2019/07/ruby-string-concatenation/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2019/07/ruby-string-</text:span><text:span text:style-name="T19">concatenation/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr245" draw:text-style-name="P41" xml:id="id287" draw:id="id287" draw:layer="layout" svg:width="26.2cm" svg:height="6.451cm" svg:x="0.9cm" svg:y="6.302cm">
@@ -33533,12 +33533,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr248" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; String Concatenation</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; String </text:span><text:span text:style-name="T16">Concatenation</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr249" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2019/07/ruby-string-concatenation/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2019/07/ruby-string-</text:span><text:span text:style-name="T19">concatenation/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr250" draw:text-style-name="P41" xml:id="id296" draw:id="id296" draw:layer="layout" svg:width="26.2cm" svg:height="8.776cm" svg:x="0.9cm" svg:y="6.302cm">
@@ -33685,12 +33685,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr254" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; String Concatenation</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; String </text:span><text:span text:style-name="T16">Concatenation</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr255" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2018/09/ruby-conversion-methods/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2018/09/ruby-</text:span><text:span text:style-name="T19">conversion-methods/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr256" draw:text-style-name="P42" xml:id="id308" draw:id="id308" draw:layer="layout" svg:width="25.8cm" svg:height="1.115cm" svg:x="0.8cm" svg:y="6.8cm">
@@ -33722,7 +33722,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr261" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.303cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2019/07/ruby-string-concatenation/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2019/07/ruby-string-</text:span><text:span text:style-name="T19">concatenation/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr262" draw:text-style-name="P42" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="3.501cm">
@@ -33732,7 +33732,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr263" draw:text-style-name="P42" draw:layer="layout" svg:width="25.8cm" svg:height="1.115cm" svg:x="0.8cm" svg:y="5cm">
      <draw:text-box>
-      <text:p text:style-name="P11"><text:span text:style-name="T79">d. Menggunakan operator </text:span><text:span text:style-name="T80">&lt;&lt;</text:span><text:span text:style-name="T79"> (alias dari </text:span><text:span text:style-name="T89">concat()</text:span><text:span text:style-name="T79"> </text:span><text:span text:style-name="T79">method)</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T79">d. Menggunakan operator </text:span><text:span text:style-name="T80">&lt;&lt;</text:span><text:span text:style-name="T79"> (alias </text:span><text:span text:style-name="T79">dari </text:span><text:span text:style-name="T89">concat()</text:span><text:span text:style-name="T79"> method)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <anim:par presentation:node-type="timing-root">
@@ -33801,12 +33801,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr264" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; String Concatenation</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; String </text:span><text:span text:style-name="T16">Concatenation</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr265" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2019/07/ruby-string-concatenation/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2019/07/ruby-string-</text:span><text:span text:style-name="T19">concatenation/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr266" draw:text-style-name="P41" xml:id="id318" draw:id="id318" draw:layer="layout" svg:width="26.2cm" svg:height="6.451cm" svg:x="0.9cm" svg:y="6.302cm">
@@ -33915,12 +33915,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr270" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; String Interpolation</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; String </text:span><text:span text:style-name="T16">Interpolation</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr271" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/ruby-tutorial/variables/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - </text:span><text:span text:style-name="T19">https://www.rubyguides.com/ruby-tutorial/variables/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr272" draw:text-style-name="P42" draw:layer="layout" svg:width="25.8cm" svg:height="1.801cm" svg:x="0.8cm" svg:y="3.501cm">
@@ -34022,7 +34022,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr276" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Mengecek Method pada </text:span><text:span text:style-name="T16">Class</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Mengecek Method </text:span><text:span text:style-name="T16">pada Class</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr277" draw:text-style-name="P42" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="3.101cm">
@@ -34172,7 +34172,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr282" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; String Method yang </text:span><text:span text:style-name="T16">Biasa </text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; String Method </text:span><text:span text:style-name="T16">yang Biasa </text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T16"><text:s text:c="2"/></text:span><text:span text:style-name="T16">Digunakan</text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -34411,7 +34411,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr294" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; String Method yang </text:span><text:span text:style-name="T16">Biasa </text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; String Method </text:span><text:span text:style-name="T16">yang Biasa </text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T16"><text:s text:c="2"/></text:span><text:span text:style-name="T16">Digunakan</text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -34619,7 +34619,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr305" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Escaping Character</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Escaping </text:span><text:span text:style-name="T16">Character</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr306" draw:text-style-name="P42" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="3.101cm">
@@ -34672,7 +34672,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr313" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">More: AppSignal - https://blog.appsignal.com/2016/12/21/ruby-magic-escaping-in-ruby.html</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">More: AppSignal - https://blog.appsignal.com/2016/12/21/ruby-magic-</text:span><text:span text:style-name="T19">escaping-in-ruby.html</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr314" draw:text-style-name="P25" draw:layer="layout" svg:width="5.88cm" svg:height="2.139cm" svg:x="19.092cm" svg:y="0.568cm">
@@ -34797,7 +34797,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr315" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="5.933cm" svg:x="2.36cm" svg:y="7.534cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T13">Working with</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13">Working </text:span><text:span text:style-name="T13">with</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T55">String (b)</text:span><text:span text:style-name="T13"> </text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -34812,13 +34812,13 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr316" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="4.2cm" svg:x="2.36cm" svg:y="9.5cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Get Input from User (Console) </text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Get Input from User </text:span><text:span text:style-name="T35">(Console) </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr317" draw:text-style-name="P25" draw:layer="layout" svg:width="23.642cm" svg:height="5.933cm" svg:x="2cm" svg:y="2.535cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T13">.Working with</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T55"><text:s/></text:span><text:span text:style-name="T55">String (b)</text:span><text:span text:style-name="T13"> </text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13">.Working </text:span><text:span text:style-name="T13">with</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T55"><text:s/></text:span><text:span text:style-name="T55">String </text:span><text:span text:style-name="T55">(b)</text:span><text:span text:style-name="T13"> </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -34832,7 +34832,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr318" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Get Input from User </text:span><text:span text:style-name="T97">(Console)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Get Input from </text:span><text:span text:style-name="T16">User </text:span><text:span text:style-name="T97">(Console)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr319" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
@@ -35001,7 +35001,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr327" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="5.933cm" svg:x="2.36cm" svg:y="7.534cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T13">Working with</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13">Working </text:span><text:span text:style-name="T13">with</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T55">Number</text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -35017,14 +35017,14 @@
     <draw:frame draw:style-name="gr328" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="5.059cm" svg:x="2.36cm" svg:y="9.5cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Arithmetic Operation</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Order Arithmetic Operation</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Order Arithmetic </text:span><text:span text:style-name="T35">Operation</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Loop with Times</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Upto &amp; Downto</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr329" draw:text-style-name="P25" draw:layer="layout" svg:width="23.642cm" svg:height="5.933cm" svg:x="2cm" svg:y="2.535cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T13">.Working with</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13">.Working </text:span><text:span text:style-name="T13">with</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T55"><text:s/></text:span><text:span text:style-name="T55">Number</text:span><text:span text:style-name="T13"> </text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -35039,7 +35039,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr330" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Arithmetic Operation</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Arithmetic </text:span><text:span text:style-name="T16">Operation</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr331" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
@@ -35294,7 +35294,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr336" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Order Arithmetic </text:span><text:span text:style-name="T16">Operation</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Order </text:span><text:span text:style-name="T16">Arithmetic </text:span><text:span text:style-name="T16">Operation</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr337" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
@@ -35900,7 +35900,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr357" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="8.774cm" svg:x="2.36cm" svg:y="2.813cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T55">.Comparison</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T55">.Compariso</text:span><text:span text:style-name="T55">n</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T55"><text:s/></text:span><text:span text:style-name="T55">&amp; Logical</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T55"><text:s/></text:span><text:span text:style-name="T55">Operators</text:span></text:p>
      </draw:text-box>
@@ -35922,7 +35922,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr359" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Comparison Operators</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Comparison </text:span><text:span text:style-name="T16">Operators</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr360" draw:text-style-name="P42" draw:layer="layout" svg:width="26.4cm" svg:height="2.099cm" svg:x="0.8cm" svg:y="3.101cm">
@@ -36222,7 +36222,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr362" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2018/07/ruby-operators/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2018/07/ruby-</text:span><text:span text:style-name="T19">operators/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <anim:par presentation:node-type="timing-root">
@@ -36264,7 +36264,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr363" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Logical Operators</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Logical </text:span><text:span text:style-name="T16">Operators</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr364" draw:text-style-name="P42" draw:layer="layout" svg:width="26.4cm" svg:height="2.099cm" svg:x="0.8cm" svg:y="3.101cm">
@@ -36545,7 +36545,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr365" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2018/07/ruby-operators/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2018/07/ruby-</text:span><text:span text:style-name="T19">operators/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr366" draw:text-style-name="P41" xml:id="id527" draw:id="id527" draw:layer="layout" svg:width="26.2cm" svg:height="5.676cm" svg:x="0.9cm" svg:y="12.502cm">
@@ -36625,10 +36625,10 @@
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; If</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Unless</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; If/Unless for One Statement</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; If/Unless for One </text:span><text:span text:style-name="T35">Statement</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; If, Else</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; If, Elsif, Else</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; If with Multiple Condition</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; If with Multiple </text:span><text:span text:style-name="T35">Condition</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; If Nested (bertingkat)</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Case</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Ternary Operator</text:span></text:p>
@@ -36650,7 +36650,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr371" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/ruby-tutorial/ruby-if-else/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/ruby-tutorial/ruby-if-</text:span><text:span text:style-name="T19">else/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr372" draw:text-style-name="P41" xml:id="id528" draw:id="id528" draw:layer="layout" svg:width="26.2cm" svg:height="3.351cm" svg:x="0.9cm" svg:y="3.402cm">
@@ -36748,12 +36748,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr376" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; unless Statements</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; unless </text:span><text:span text:style-name="T16">Statements</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr377" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/ruby-tutorial/ruby-if-else/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/ruby-tutorial/ruby-if-</text:span><text:span text:style-name="T19">else/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr378" draw:text-style-name="P41" xml:id="id536" draw:id="id536" draw:layer="layout" svg:width="26.2cm" svg:height="2.598cm" svg:x="0.9cm" svg:y="3.402cm">
@@ -36873,12 +36873,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr383" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; if/unless (reversed </text:span><text:span text:style-name="T16">form)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; if/unless </text:span><text:span text:style-name="T16">(reversed form)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr384" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/ruby-tutorial/ruby-if-else/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/ruby-tutorial/ruby-if-</text:span><text:span text:style-name="T19">else/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr385" draw:text-style-name="P41" xml:id="id548" draw:id="id548" draw:layer="layout" svg:width="26.2cm" svg:height="1.026cm" svg:x="0.9cm" svg:y="4.402cm">
@@ -36973,7 +36973,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr392" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/ruby-tutorial/ruby-if-else/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/ruby-tutorial/ruby-if-</text:span><text:span text:style-name="T19">else/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr393" draw:text-style-name="P41" xml:id="id553" draw:id="id553" draw:layer="layout" svg:width="26.2cm" svg:height="4.901cm" svg:x="0.9cm" svg:y="3.403cm">
@@ -37068,7 +37068,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr396" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/ruby-tutorial/ruby-if-else/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/ruby-tutorial/ruby-if-</text:span><text:span text:style-name="T19">else/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr397" draw:text-style-name="P41" xml:id="id561" draw:id="id561" draw:layer="layout" svg:width="26.2cm" svg:height="9.551cm" svg:x="0.9cm" svg:y="3.403cm">
@@ -37193,12 +37193,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr398" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; if with Multiple </text:span><text:span text:style-name="T16">Condition</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; if with </text:span><text:span text:style-name="T16">Multiple </text:span><text:span text:style-name="T16">Condition</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr399" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/ruby-tutorial/ruby-if-else/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/ruby-tutorial/ruby-if-</text:span><text:span text:style-name="T19">else/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr400" draw:text-style-name="P41" xml:id="id574" draw:id="id574" draw:layer="layout" svg:width="26.2cm" svg:height="4.901cm" svg:x="0.9cm" svg:y="3.403cm">
@@ -37366,12 +37366,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr402" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; if Nested (bertingkat)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; if Nested </text:span><text:span text:style-name="T16">(bertingkat)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr403" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/ruby-tutorial/ruby-if-else/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/ruby-tutorial/ruby-if-</text:span><text:span text:style-name="T19">else/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr404" draw:text-style-name="P41" xml:id="id592" draw:id="id592" draw:layer="layout" svg:width="26.2cm" svg:height="8.776cm" svg:x="0.9cm" svg:y="3.404cm">
@@ -37654,12 +37654,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr413" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; ternary Operator</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; ternary </text:span><text:span text:style-name="T16">Operator</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr414" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2019/10/ruby-ternary-operator/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: RubyGuides - https://www.rubyguides.com/2019/10/ruby-ternary-</text:span><text:span text:style-name="T19">operator/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr415" draw:text-style-name="P41" xml:id="id617" draw:id="id617" draw:layer="layout" svg:width="26.2cm" svg:height="4.126cm" svg:x="0.9cm" svg:y="3.404cm">
@@ -37809,7 +37809,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr423" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="3.092cm" svg:x="2.36cm" svg:y="4.313cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T55">.Collection</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T55">.Collectio</text:span><text:span text:style-name="T55">n</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr424" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="8.665cm" svg:x="2.361cm" svg:y="8.601cm">
@@ -38153,7 +38153,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr445" draw:text-style-name="P61" draw:layer="layout" svg:width="26.4cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="3.101cm">
      <draw:text-box>
-      <text:p text:style-name="P11"><text:span text:style-name="T56">Bagaimana cara membuat array kosong/baru?</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T56">Bagaimana cara membuat array </text:span><text:span text:style-name="T56">kosong/baru?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr446" draw:text-style-name="P60" xml:id="id658" draw:id="id658" draw:layer="layout" svg:width="26.2cm" svg:height="3.351cm" svg:x="0.9cm" svg:y="8.505cm">
@@ -38259,7 +38259,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr450" draw:text-style-name="P61" draw:layer="layout" svg:width="26.4cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="3.101cm">
      <draw:text-box>
-      <text:p text:style-name="P11"><text:span text:style-name="T56">Bagaimana cara memasukkan nilai ke dalam array?</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T56">Bagaimana cara memasukkan nilai ke dalam </text:span><text:span text:style-name="T56">array?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr451" draw:text-style-name="P61" draw:layer="layout" svg:width="26.4cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="13.101cm">
@@ -38534,12 +38534,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr459" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array Modification </text:span><text:span text:style-name="T16">(Delete)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array </text:span><text:span text:style-name="T16">Modification </text:span><text:span text:style-name="T16">(Delete)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr460" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.0/Array.html#method-i-delete</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.0/Array.html#method-</text:span><text:span text:style-name="T19">i-delete</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr461" draw:text-style-name="P53" draw:layer="layout" svg:width="26.4cm" svg:height="1.195cm" svg:x="0.8cm" svg:y="3.1cm">
@@ -38652,12 +38652,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr464" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P24"><text:span text:style-name="T16">&gt; Array Modification </text:span><text:span text:style-name="T16">(Delete)</text:span></text:p>
+      <text:p text:style-name="P24"><text:span text:style-name="T16">&gt; Array </text:span><text:span text:style-name="T16">Modification </text:span><text:span text:style-name="T16">(Delete)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr465" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.0/Array.html#method-i-delete_at</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.0/Array.html#method-</text:span><text:span text:style-name="T19">i-delete_at</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr466" draw:text-style-name="P53" draw:layer="layout" svg:width="26.4cm" svg:height="1.195cm" svg:x="0.8cm" svg:y="3.1cm">
@@ -38792,12 +38792,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr469" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P24"><text:span text:style-name="T16">&gt; Array Modification </text:span><text:span text:style-name="T16">(Delete)</text:span></text:p>
+      <text:p text:style-name="P24"><text:span text:style-name="T16">&gt; Array </text:span><text:span text:style-name="T16">Modification </text:span><text:span text:style-name="T16">(Delete)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr470" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.0/Array.html#method-i-delete_if</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.0/Array.html#method-</text:span><text:span text:style-name="T19">i-delete_if</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr471" draw:text-style-name="P53" draw:layer="layout" svg:width="26.4cm" svg:height="1.195cm" svg:x="0.8cm" svg:y="3.1cm">
@@ -38917,12 +38917,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr474" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array Modification </text:span><text:span text:style-name="T16">(Join)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array </text:span><text:span text:style-name="T16">Modification </text:span><text:span text:style-name="T16">(Join)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr475" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.0/Array.html#method-i-join</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.0/Array.html#method-</text:span><text:span text:style-name="T19">i-join</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr476" draw:text-style-name="P53" draw:layer="layout" svg:width="26.4cm" svg:height="1.195cm" svg:x="0.8cm" svg:y="3.1cm">
@@ -39060,12 +39060,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr479" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array Modification </text:span><text:span text:style-name="T16">(Push)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array </text:span><text:span text:style-name="T16">Modification </text:span><text:span text:style-name="T16">(Push)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr480" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.0/Array.html#method-i-push</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.0/Array.html#method-</text:span><text:span text:style-name="T19">i-push</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr481" draw:text-style-name="P53" draw:layer="layout" svg:width="26.4cm" svg:height="1.195cm" svg:x="0.8cm" svg:y="3.1cm">
@@ -39169,12 +39169,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr484" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array Modification </text:span><text:span text:style-name="T16">(Pop)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array </text:span><text:span text:style-name="T16">Modification </text:span><text:span text:style-name="T16">(Pop)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr485" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.0/Array.html#method-i-pop</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.0/Array.html#method-</text:span><text:span text:style-name="T19">i-pop</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr486" draw:text-style-name="P53" draw:layer="layout" svg:width="26.4cm" svg:height="1.195cm" svg:x="0.8cm" svg:y="3.1cm">
@@ -39311,12 +39311,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr489" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array Modification </text:span><text:span text:style-name="T16">(Unshift)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array </text:span><text:span text:style-name="T16">Modification </text:span><text:span text:style-name="T16">(Unshift)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr490" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.0/Array.html#method-i-unshift</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.0/Array.html#method-</text:span><text:span text:style-name="T19">i-unshift</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr491" draw:text-style-name="P53" draw:layer="layout" svg:width="26.4cm" svg:height="1.195cm" svg:x="0.8cm" svg:y="3.1cm">
@@ -39411,7 +39411,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr494" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array Modification </text:span><text:span text:style-name="T16">(Shift)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array Modification (Shift)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr495" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
@@ -39433,13 +39433,13 @@
      <draw:text-box>
       <text:p xml:id="id769" text:id="id769" text:style-name="P11"><text:span text:style-name="T56">alphabet <text:s/>= [</text:span><text:span text:style-name="T82">&apos;A&apos;</text:span><text:span text:style-name="T56">, </text:span><text:span text:style-name="T82">&apos;B&apos;</text:span><text:span text:style-name="T56">, </text:span><text:span text:style-name="T82">&apos;C&apos;</text:span><text:span text:style-name="T56">, </text:span><text:span text:style-name="T82">&apos;D&apos;</text:span><text:span text:style-name="T56">,</text:span><text:span text:style-name="T82"> &apos;E&apos;</text:span><text:span text:style-name="T56">,</text:span><text:span text:style-name="T82"> &apos;F&apos;</text:span><text:span text:style-name="T56">]</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T56"/></text:p>
-      <text:p xml:id="id770" text:id="id770" text:style-name="P11"><text:span text:style-name="T56">alphabet.</text:span><text:span text:style-name="T66">unshift</text:span></text:p>
+      <text:p xml:id="id770" text:id="id770" text:style-name="P11"><text:span text:style-name="T56">alphabet.</text:span><text:span text:style-name="T66">shift</text:span></text:p>
       <text:p xml:id="id771" text:id="id771" text:style-name="P11"><text:span text:style-name="T56">=&gt; </text:span><text:span text:style-name="T82">&apos;A&apos;</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T56"/></text:p>
       <text:p xml:id="id772" text:id="id772" text:style-name="P11"><text:span text:style-name="T56">alphabet</text:span></text:p>
       <text:p xml:id="id773" text:id="id773" text:style-name="P11"><text:span text:style-name="T98">=&gt; </text:span><text:span text:style-name="T56">[</text:span><text:span text:style-name="T82">&apos;B&apos;</text:span><text:span text:style-name="T56">, </text:span><text:span text:style-name="T82">&apos;C&apos;</text:span><text:span text:style-name="T56">, </text:span><text:span text:style-name="T82">&apos;D&apos;</text:span><text:span text:style-name="T56">,</text:span><text:span text:style-name="T82"> &apos;E&apos;</text:span><text:span text:style-name="T56">,</text:span><text:span text:style-name="T82"> &apos;F&apos;</text:span><text:span text:style-name="T56">]</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T56"/></text:p>
-      <text:p xml:id="id774" text:id="id774" text:style-name="P11"><text:span text:style-name="T56">alphabet.</text:span><text:span text:style-name="T66">unshift</text:span><text:span text:style-name="T56">(2)</text:span></text:p>
+      <text:p xml:id="id774" text:id="id774" text:style-name="P11"><text:span text:style-name="T56">alphabet.</text:span><text:span text:style-name="T66">shift</text:span><text:span text:style-name="T56">(2)</text:span></text:p>
       <text:p xml:id="id775" text:id="id775" text:style-name="P11"><text:span text:style-name="T98">=&gt; </text:span><text:span text:style-name="T56">[</text:span><text:span text:style-name="T82">&apos;B&apos;</text:span><text:span text:style-name="T56">, </text:span><text:span text:style-name="T82">&apos;C&apos;</text:span><text:span text:style-name="T56">]</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T56"/></text:p>
       <text:p xml:id="id776" text:id="id776" text:style-name="P11"><text:span text:style-name="T56">alphabet</text:span></text:p>
@@ -39911,12 +39911,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr514" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Hash Modification </text:span><text:span text:style-name="T16">(Delete)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Hash </text:span><text:span text:style-name="T16">Modification </text:span><text:span text:style-name="T16">(Delete)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr515" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.0/Hash.html#method-i-delete</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.0/Hash.html#method-i-</text:span><text:span text:style-name="T19">delete</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr516" draw:text-style-name="P53" draw:layer="layout" svg:width="26.4cm" svg:height="1.195cm" svg:x="0.8cm" svg:y="3.1cm">
@@ -40011,12 +40011,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr519" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Hash Modification </text:span><text:span text:style-name="T97">(Delete If)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Hash </text:span><text:span text:style-name="T16">Modification </text:span><text:span text:style-name="T97">(Delete If)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr520" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.0/Hash.html#method-i-delete_if</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.0/Hash.html#method-i-</text:span><text:span text:style-name="T19">delete_if</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr521" draw:text-style-name="P53" draw:layer="layout" svg:width="26.4cm" svg:height="1.195cm" svg:x="0.8cm" svg:y="3.1cm">
@@ -40620,7 +40620,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr550" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.0/Array.html#method-i-map</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.0/Array.html#method-</text:span><text:span text:style-name="T19">i-map</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr551" draw:text-style-name="P60" xml:id="id864" draw:id="id864" draw:layer="layout" svg:width="26.2cm" svg:height="5.676cm" svg:x="0.9cm" svg:y="4.804cm">
@@ -40751,10 +40751,10 @@
     </draw:frame>
     <draw:frame draw:style-name="gr556" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="8.665cm" svg:x="2.361cm" svg:y="8.601cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Method (tanpa <text:s/>parameter)</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Method (dengan parameter)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Method (tanpa <text:s/></text:span><text:span text:style-name="T35">parameter)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Method (dengan </text:span><text:span text:style-name="T35">parameter)</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Return Value</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Perbedaan Puts dan Return Value</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Perbedaan Puts dan </text:span><text:span text:style-name="T35">Return Value</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T35"/></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T35"/></text:p>
      </draw:text-box>
@@ -41510,7 +41510,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr590" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Perbedaan Puts &amp; Return</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Perbedaan Puts </text:span><text:span text:style-name="T16">&amp; Return</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr591" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
@@ -41653,7 +41653,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr597" draw:text-style-name="P65" draw:layer="layout" svg:width="15.82cm" svg:height="3.35cm" svg:x="6.09cm" svg:y="8.825cm">
      <draw:text-box>
-      <text:p text:style-name="P64"><text:span text:style-name="T121"><text:s/></text:span><text:span text:style-name="T121">EXTENDED <text:s/></text:span></text:p>
+      <text:p text:style-name="P64"><text:span text:style-name="T121"><text:s/></text:span><text:span text:style-name="T121">EXTENDED </text:span><text:span text:style-name="T121"><text:s/></text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -41681,7 +41681,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr599" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="3.092cm" svg:x="2.36cm" svg:y="8.954cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T55">Error Handling</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T55">Error </text:span><text:span text:style-name="T55">Handling</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -41696,7 +41696,7 @@
     <draw:frame draw:style-name="gr600" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="5.933cm" svg:x="2.36cm" svg:y="7.534cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T13">.Object </text:span><text:span text:style-name="T13">Oriented</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T13"><text:s/></text:span><text:span text:style-name="T13">Programming</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13"><text:s/></text:span><text:span text:style-name="T13">Programmin</text:span><text:span text:style-name="T13">g</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -41724,12 +41724,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr602" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Tips mencari dengan </text:span><text:span text:style-name="T16">Google</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Tips mencari </text:span><text:span text:style-name="T16">dengan Google</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr603" draw:text-style-name="P66" draw:layer="layout" svg:width="26.2cm" svg:height="1.979cm" svg:x="0.8cm" svg:y="3.885cm">
      <draw:text-box>
-      <text:p text:style-name="P11"><text:span text:style-name="T122">Gunakan prefix “ruby” sebagai awalan kata kunci </text:span><text:span text:style-name="T122">untu mencari di Google.</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T122">Gunakan prefix “ruby” sebagai </text:span><text:span text:style-name="T122">awalan kata kunci untu mencari di </text:span><text:span text:style-name="T122">Google.</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
@@ -41763,8 +41763,8 @@
     </draw:g>
     <draw:frame draw:style-name="gr607" draw:text-style-name="P66" draw:layer="layout" svg:width="26.2cm" svg:height="1.979cm" svg:x="0.8cm" svg:y="9.986cm">
      <draw:text-box>
-      <text:p text:style-name="P11"><text:span text:style-name="T122">Kemudian, diikuti dengan keyword apa yang mau </text:span><text:span text:style-name="T122">dicari.</text:span></text:p>
-      <text:p text:style-name="P11"><text:span text:style-name="T122">Misal, </text:span><text:span text:style-name="T125">tentang perulangan dengan method “each”</text:span><text:span text:style-name="T122">.</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T122">Kemudian, diikuti dengan keyword </text:span><text:span text:style-name="T122">apa yang mau dicari.</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T122">Misal, </text:span><text:span text:style-name="T125">tentang perulangan dengan </text:span><text:span text:style-name="T125">method “each”</text:span><text:span text:style-name="T122">.</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
@@ -41798,7 +41798,7 @@
     </draw:g>
     <draw:frame draw:style-name="gr609" draw:text-style-name="P66" draw:layer="layout" svg:width="26.2cm" svg:height="1.979cm" svg:x="0.8cm" svg:y="16.187cm">
      <draw:text-box>
-      <text:p text:style-name="P11"><text:span text:style-name="T122">Dengan cara ini, kita dapat membuat hasil </text:span><text:span text:style-name="T122">pencarian yang lebih spesifik untuk bahasa </text:span><text:span text:style-name="T122">pemrograman Ruby. </text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T122">Dengan cara ini, kita dapat membuat </text:span><text:span text:style-name="T122">hasil pencarian yang lebih spesifik </text:span><text:span text:style-name="T122">untuk bahasa pemrograman Ruby. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -41812,7 +41812,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr610" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Referensi Belajar Ruby</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Referensi </text:span><text:span text:style-name="T16">Belajar Ruby</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr611" draw:text-style-name="P69" draw:layer="layout" svg:width="11.95cm" svg:height="14.075cm" svg:x="1.05cm" svg:y="3.4cm">
@@ -41887,7 +41887,7 @@
     <draw:frame draw:style-name="gr613" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.719cm" svg:y="2.767cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Referensi </text:span><text:span text:style-name="T126">Group</text:span><text:span text:style-name="T16"> </text:span><text:span text:style-name="T16">Telegram </text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T16"><text:s text:c="2"/></text:span><text:span text:style-name="T16">untuk Bertanya seputar </text:span><text:span text:style-name="T16">Ruby</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16"><text:s text:c="2"/></text:span><text:span text:style-name="T16">untuk Bertanya </text:span><text:span text:style-name="T16">seputar Ruby</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr614" draw:text-style-name="P69" draw:layer="layout" svg:width="22cm" svg:height="3.2cm" svg:x="2.8cm" svg:y="6.9cm">
@@ -41904,8 +41904,8 @@
     </draw:frame>
     <draw:frame draw:style-name="gr615" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.72cm" svg:y="11.368cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Referensi </text:span><text:span text:style-name="T126">Channel</text:span><text:span text:style-name="T16"> </text:span><text:span text:style-name="T16">Telegram </text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T16"><text:s text:c="2"/></text:span><text:span text:style-name="T16">untuk Berita tentang </text:span><text:span text:style-name="T16">Ruby</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Referensi </text:span><text:span text:style-name="T126">Channel</text:span><text:span text:style-name="T16"> Telegram </text:span><text:span text:style-name="T16"></text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16"><text:s text:c="2"/></text:span><text:span text:style-name="T16">untuk Berita </text:span><text:span text:style-name="T16">tentang Ruby</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr616" draw:text-style-name="P69" draw:layer="layout" svg:width="22.6cm" svg:height="3.2cm" svg:x="2.8cm" svg:y="15.5cm">

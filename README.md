@@ -8,7 +8,7 @@ layout: default
 
 🗣 : **Rizqi Nur Assyaufi** [@BanditHijo](https://bandithijo.github.io)
 
-🎟️ : -
+🎟️ : **CLOSED**
 
 <br>
 
@@ -49,62 +49,61 @@ Materi-materi pada handout ini, sudah siap! 👍
   <summary style="cursor:pointer;">Topik yang akan dibicarakan meliputi: *<i>click to open</i></summary>
 
 01. **Introduction to Ruby Lang**
-    - [ ] Sedikit tentang Ruby?
-    - [ ] Kenapa memilih Ruby?
-    - [ ] Apa yang baru dari Ruby 2.7?
-    - [ ] Tips memasang Ruby untuk developer?
-    - [ ] Ruby Style Guide
-    - [ ] Bagaimana menulis kode & menjalankannya?<br>
+    - [x] Sedikit tentang Ruby?
+    - [x] Kenapa memilih Ruby?
+    - [x] Apa yang baru dari Ruby 2.7?
+    - [x] Tips memasang Ruby untuk developer?
+    - [x] Ruby Style Guide
+    - [x] Bagaimana menulis kode & menjalankannya?<br>
           (dengan Text Editor & IRB)
 02. **Variable**
-    - [ ] Apa itu variable?
-    - [ ] Scope/jangkauan dari variable?
+    - [x] Apa itu variable?
+    - [x] Scope/jangkauan dari variable?
 03. **Working with String(a)**
-    - [ ] String concatenation
-    - [ ] String interpolation
-    - [ ] Mengecek method-method yang tersedia untuk string<br>
+    - [x] String concatenation
+    - [x] String interpolation
+    - [x] Mengecek method-method yang tersedia untuk string<br>
           (Demokan method yang umum digunakan)
-    - [ ] Escaping character
-    - [ ] Common string manipulation with strip & split
+    - [x] Escaping character
+    - [x] Common string manipulation with strip & split
 04. **Working with String(b)**
-    - [ ] Getting input from user
+    - [x] Getting input from user
 05. **Working with Number**
-    - [ ] Arithmetic operation
-    - [ ] Order of arithmetic operation
-    - [ ] Times
-    - [ ] Upto Downto
+    - [x] Arithmetic operation
+    - [x] Order of arithmetic operation
+    - [x] Times
+    - [x] Upto Downto
 06. **Comparison & Logical Operators**
-    - [ ] Show the common comparison operators & methods for comparison
-    - [ ] Show the common logical operators
+    - [x] Show the common comparison operators & methods for comparison
+    - [x] Show the common logical operators
 08. **Branching/Condition**
-    - [ ] If & Else
-    - [ ] Unless
-    - [ ] If/Unless for one statement
-    - [ ] If, Elsif
-    - [ ] If, Elsif, Else
-    - [ ] If with multiple condition
-    - [ ] If nested/bertingkat
-    - [ ] Case
-    - [ ] Ternary Operator
+    - [x] If & Else
+    - [x] Unless
+    - [x] If/Unless for one statement
+    - [x] If, Elsif
+    - [x] If, Elsif, Else
+    - [x] If with multiple condition
+    - [x] If nested/bertingkat
+    - [x] Case
+    - [x] Ternary Operator
 09. **Collection**
-    - [ ] Array
-    - [ ] Array Modification<br>
+    - [x] Array
+    - [x] Array Modification<br>
           (join, push, pop, shift, unshift)
-    - [ ] Hash
-    - [ ] Hash Modification<br>
+    - [x] Hash
+    - [x] Hash Modification<br>
           (add, delete)
 10. **Looping**
-    - [ ] For
-    - [ ] Each
-    - [ ] While
-    - [ ] While
-    - [ ] Map
-    - [ ] Select
+    - [x] For
+    - [x] Each
+    - [x] While
+    - [x] Map
+    - [x] Select
 11. **Method**
-    - [ ] Method (tanpa  parameter)
-    - [ ] Method (dengan parameter)
-    - [ ] Return value
-    - [ ] Perbedaan puts & return value
+    - [x] Method (tanpa  parameter)
+    - [x] Method (dengan parameter)
+    - [x] Return value
+    - [x] Perbedaan puts & return value
 
     <br><b>Topik tambahan...</b>
 
