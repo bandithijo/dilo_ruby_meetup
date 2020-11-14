@@ -105,8 +105,6 @@ Materi-materi pada handout ini, masih dalam proses developing.
     - [ ] Method (dengan parameter)
     - [ ] Return value
     - [ ] Perbedaan puts & return value
-    - [ ] Default parameter value
-    - [ ] Named parameter
 
     <br><b>Topik tambahan...</b>
 

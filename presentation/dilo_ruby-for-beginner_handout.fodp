@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ooo="http://openoffice.org/2004/office" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:initial-creator>Rizqi Nur Assyaufi</meta:initial-creator><meta:creation-date>2020-09-08T07:14:57.089656681</meta:creation-date><dc:date>2020-11-14T15:15:28.267957931</dc:date><dc:creator>Rizqi Nur Assyaufi</dc:creator><meta:editing-duration>P4DT18H33M15S</meta:editing-duration><meta:editing-cycles>1085</meta:editing-cycles><meta:generator>LibreOffice/6.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:object-count="900"/></office:meta>
+ <office:meta><meta:initial-creator>Rizqi Nur Assyaufi</meta:initial-creator><meta:creation-date>2020-09-08T07:14:57.089656681</meta:creation-date><dc:date>2020-11-14T15:49:04.975913029</dc:date><dc:creator>Rizqi Nur Assyaufi</dc:creator><meta:editing-duration>P4DT18H40M31S</meta:editing-duration><meta:editing-cycles>1092</meta:editing-cycles><meta:generator>LibreOffice/6.4.7.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:object-count="917"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">-6584</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">-6276</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">-431</config:config-item>
    <config:config-item config:name="VisibleAreaWidth" config:type="int">29412</config:config-item>
    <config:config-item config:name="VisibleAreaHeight" config:type="int">34211</config:config-item>
@@ -29,7 +29,7 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">true</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">110</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">106</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">false</config:config-item>
@@ -8739,89 +8739,141 @@
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr584" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="3.1cm" fo:min-width="0cm"/>
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.883cm" fo:min-width="0cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr585" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="2.842cm" fo:min-width="0cm"/>
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.429cm" fo:min-width="27.305cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr586" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="2.842cm" fo:min-width="0cm"/>
+  <style:style style:name="gr586" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+   <style:graphic-properties draw:stroke="dash" draw:stroke-dash="Long_20_Dash" svg:stroke-color="#ffffff" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="2.326cm" fo:min-width="0cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr587" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="5.683cm" fo:min-width="0cm"/>
+  <style:style style:name="gr587" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="0.35cm" fo:min-width="0cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr588" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="2.842cm" fo:min-width="0cm"/>
+  <style:style style:name="gr588" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="0.35cm" fo:min-width="0cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr589" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
+  <style:style style:name="gr589" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+   <style:graphic-properties draw:stroke="dash" draw:stroke-dash="Long_20_Dash" svg:stroke-color="#808080" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="0cm" fo:min-width="0cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr590" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
    <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.883cm" fo:min-width="0cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr590" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.729cm" fo:min-width="0cm"/>
+  <style:style style:name="gr591" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.429cm" fo:min-width="27.305cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr591" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="2.098cm" fo:min-width="23.248cm"/>
-  </style:style>
-  <style:style style:name="gr592" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="2.067cm"/>
+  <style:style style:name="gr592" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+   <style:graphic-properties draw:stroke="dash" draw:stroke-dash="Long_20_Dash" svg:stroke-color="#ffffff" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="2.326cm" fo:min-width="0cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr593" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.381cm" fo:min-width="0cm"/>
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="0.35cm" fo:min-width="0cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr594" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.729cm" fo:min-width="0cm"/>
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="0.35cm" fo:min-width="0cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr595" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.381cm" fo:min-width="0cm"/>
+   <style:graphic-properties draw:stroke="dash" draw:stroke-dash="Long_20_Dash" svg:stroke-color="#808080" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="0cm" fo:min-width="0cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr596" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.729cm" fo:min-width="0cm"/>
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="0.35cm" fo:min-width="0cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr597" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.883cm" fo:min-width="0cm"/>
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="3.1cm" fo:min-width="0cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr598" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L5">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="13.825cm" fo:min-width="11.45cm"/>
-   <style:paragraph-properties style:writing-mode="lr-tb"/>
-  </style:style>
-  <style:style style:name="gr599" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L5">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="13.825cm" fo:min-width="11.45cm"/>
-   <style:paragraph-properties style:writing-mode="lr-tb"/>
-  </style:style>
-  <style:style style:name="gr600" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="3.439cm" fo:min-width="0cm"/>
-   <style:paragraph-properties style:writing-mode="lr-tb"/>
-  </style:style>
-  <style:style style:name="gr601" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L5">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="2.95cm" fo:min-width="21.5cm"/>
-   <style:paragraph-properties style:writing-mode="lr-tb"/>
-  </style:style>
-  <style:style style:name="gr602" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="3.439cm" fo:min-width="0cm"/>
-   <style:paragraph-properties style:writing-mode="lr-tb"/>
-  </style:style>
-  <style:style style:name="gr603" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L5">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="2.95cm" fo:min-width="22.1cm"/>
-   <style:paragraph-properties style:writing-mode="lr-tb"/>
-  </style:style>
-  <style:style style:name="gr604" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
+  <style:style style:name="gr598" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
    <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="2.842cm" fo:min-width="0cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="gr605" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
+  <style:style style:name="gr599" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="2.842cm" fo:min-width="0cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr600" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="5.683cm" fo:min-width="0cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr601" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="2.842cm" fo:min-width="0cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr602" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.883cm" fo:min-width="0cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr603" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.729cm" fo:min-width="0cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr604" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="2.098cm" fo:min-width="23.248cm"/>
+  </style:style>
+  <style:style style:name="gr605" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:max-height="0cm" fo:min-height="2.067cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr606" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.381cm" fo:min-width="0cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr607" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.729cm" fo:min-width="0cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr608" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.381cm" fo:min-width="0cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr609" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.729cm" fo:min-width="0cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr610" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.883cm" fo:min-width="0cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr611" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L5">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="13.825cm" fo:min-width="11.45cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr612" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L5">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="13.825cm" fo:min-width="11.45cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr613" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="3.439cm" fo:min-width="0cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr614" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L5">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="2.95cm" fo:min-width="21.5cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr615" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="3.439cm" fo:min-width="0cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr616" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L5">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="2.95cm" fo:min-width="22.1cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr617" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="2.842cm" fo:min-width="0cm"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="gr618" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
    <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="2.593cm" fo:min-width="0cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
@@ -9936,7 +9988,7 @@
      <draw:g>
       <draw:frame draw:style-name="gr5" draw:text-style-name="P9" draw:layer="layout" svg:width="14.98cm" svg:height="1.89cm" svg:x="10.35cm" svg:y="7.308cm">
        <draw:text-box>
-        <text:p><text:span text:style-name="T2">RIZQI NUR ASSYAUFI</text:span></text:p>
+        <text:p><text:span text:style-name="T2">RIZQI NUR </text:span><text:span text:style-name="T2">ASSYAUFI</text:span></text:p>
        </draw:text-box>
       </draw:frame>
       <draw:frame draw:style-name="gr6" draw:text-style-name="P10" draw:layer="layout" svg:width="10.746cm" svg:height="1.195cm" svg:x="10.335cm" svg:y="9.297cm">
@@ -9946,7 +9998,7 @@
       </draw:frame>
       <draw:frame draw:style-name="gr7" draw:text-style-name="P10" draw:layer="layout" svg:width="14.472cm" svg:height="1.195cm" svg:x="10.335cm" svg:y="10.698cm">
        <draw:text-box>
-        <text:p text:style-name="P11"><text:span text:style-name="T4">   </text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T3">bandithijo  gmail.com</text:span></text:p>
+        <text:p text:style-name="P11"><text:span text:style-name="T4">   </text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T3">bandithijo  </text:span><text:span text:style-name="T3">gmail.com</text:span></text:p>
        </draw:text-box>
       </draw:frame>
      </draw:g>
@@ -29848,7 +29900,7 @@
     </draw:g>
     <draw:frame draw:style-name="gr39" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.72cm" svg:y="0.668cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Is Ruby Dead Programming</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Is Ruby Dead </text:span><text:span text:style-name="T16">Programming</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T16"><text:s text:c="2"/></text:span><text:span text:style-name="T16">Language?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -29895,7 +29947,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr41" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Is Ruby Dead Programming</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Is Ruby Dead </text:span><text:span text:style-name="T16">Programming</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T16"><text:s text:c="2"/></text:span><text:span text:style-name="T16">Language?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -29989,7 +30041,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr44" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Is Ruby Dead Programming</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Is Ruby Dead </text:span><text:span text:style-name="T16">Programming</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T16"><text:s text:c="2"/></text:span><text:span text:style-name="T16">Language?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -30076,7 +30128,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr46" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Is Ruby Dead Programming</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Is Ruby Dead </text:span><text:span text:style-name="T16">Programming</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T16"><text:s text:c="2"/></text:span><text:span text:style-name="T16">Language?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -30156,7 +30208,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr48" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Is Ruby Dead Programming</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Is Ruby Dead </text:span><text:span text:style-name="T16">Programming</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T16"><text:s text:c="2"/></text:span><text:span text:style-name="T16">Language?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -30243,7 +30295,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr50" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Is Ruby Dead Programming</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Is Ruby Dead </text:span><text:span text:style-name="T16">Programming</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T16"><text:s text:c="2"/></text:span><text:span text:style-name="T16">Language?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -30281,7 +30333,7 @@
      </draw:custom-shape>
      <draw:frame draw:style-name="gr54" draw:text-style-name="P35" draw:layer="layout" svg:width="24.8cm" svg:height="2.655cm" svg:x="1.6cm" svg:y="14.156cm">
       <draw:text-box>
-       <text:p text:style-name="P34"><text:span text:style-name="T35">Just because Ruby is not popular anymore, it doesn&apos;t mean Ruby is dead, right?</text:span></text:p>
+       <text:p text:style-name="P34"><text:span text:style-name="T35">Just because Ruby is not popular </text:span><text:span text:style-name="T35">anymore, it doesn&apos;t mean Ruby is </text:span><text:span text:style-name="T35">dead, right?</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
@@ -30822,7 +30874,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr69" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Tips Memasang Ruby for Dev</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Tips Memasang Ruby for </text:span><text:span text:style-name="T16">Dev</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr70" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
@@ -30988,7 +31040,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr76" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Tips Memasang Ruby for Dev</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Tips Memasang Ruby for </text:span><text:span text:style-name="T16">Dev</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr77" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
@@ -30998,7 +31050,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr78" draw:text-style-name="P36" draw:layer="layout" svg:width="25.599cm" svg:height="1.631cm" svg:x="1.001cm" svg:y="3.44cm">
      <draw:text-box>
-      <text:p text:style-name="P34"><text:span text:style-name="T38">Groom your app’s Ruby env. with </text:span><text:span text:style-name="T39">Rbenv</text:span></text:p>
+      <text:p text:style-name="P34"><text:span text:style-name="T38">Groom your app’s Ruby env. </text:span><text:span text:style-name="T38">with </text:span><text:span text:style-name="T39">Rbenv</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr79" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.203cm">
@@ -32611,7 +32663,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr201" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Mengecek Class dari Variabel</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Mengecek Class dari </text:span><text:span text:style-name="T16">Variabel</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr202" draw:text-style-name="P42" draw:layer="layout" svg:width="25.8cm" svg:height="2.665cm" svg:x="0.8cm" svg:y="3.501cm">
@@ -32747,7 +32799,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr205" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Scope/Jangkauan Variabel?</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Scope/Jangkauan </text:span><text:span text:style-name="T16">Variabel?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr206" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
@@ -32870,7 +32922,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr217" draw:text-style-name="P50" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P24"><text:span text:style-name="T16">&gt; Scope/Jangkauan Variabel?</text:span></text:p>
+      <text:p text:style-name="P24"><text:span text:style-name="T16">&gt; Scope/Jangkauan </text:span><text:span text:style-name="T16">Variabel?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr218" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
@@ -33680,7 +33732,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr263" draw:text-style-name="P42" draw:layer="layout" svg:width="25.8cm" svg:height="1.115cm" svg:x="0.8cm" svg:y="5cm">
      <draw:text-box>
-      <text:p text:style-name="P11"><text:span text:style-name="T79">d. Menggunakan operator </text:span><text:span text:style-name="T80">&lt;&lt;</text:span><text:span text:style-name="T79"> (alias dari </text:span><text:span text:style-name="T89">concat()</text:span><text:span text:style-name="T79"> method)</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T79">d. Menggunakan operator </text:span><text:span text:style-name="T80">&lt;&lt;</text:span><text:span text:style-name="T79"> (alias dari </text:span><text:span text:style-name="T89">concat()</text:span><text:span text:style-name="T79"> </text:span><text:span text:style-name="T79">method)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <anim:par presentation:node-type="timing-root">
@@ -33970,7 +34022,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr276" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Mengecek Method pada Class</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Mengecek Method pada </text:span><text:span text:style-name="T16">Class</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr277" draw:text-style-name="P42" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="3.101cm">
@@ -34120,7 +34172,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr282" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; String Method yang Biasa </text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; String Method yang </text:span><text:span text:style-name="T16">Biasa </text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T16"><text:s text:c="2"/></text:span><text:span text:style-name="T16">Digunakan</text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -34359,7 +34411,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr294" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; String Method yang Biasa </text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; String Method yang </text:span><text:span text:style-name="T16">Biasa </text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T16"><text:s text:c="2"/></text:span><text:span text:style-name="T16">Digunakan</text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -35242,7 +35294,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr336" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Order Arithmetic Operation</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Order Arithmetic </text:span><text:span text:style-name="T16">Operation</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr337" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
@@ -36821,7 +36873,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr383" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; if/unless (reversed form)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; if/unless (reversed </text:span><text:span text:style-name="T16">form)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr384" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
@@ -37141,7 +37193,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr398" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; if with Multiple Condition</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; if with Multiple </text:span><text:span text:style-name="T16">Condition</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr399" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
@@ -38482,7 +38534,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr459" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array Modification (Delete)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array Modification </text:span><text:span text:style-name="T16">(Delete)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr460" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
@@ -38600,7 +38652,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr464" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P24"><text:span text:style-name="T16">&gt; Array Modification (Delete)</text:span></text:p>
+      <text:p text:style-name="P24"><text:span text:style-name="T16">&gt; Array Modification </text:span><text:span text:style-name="T16">(Delete)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr465" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
@@ -38740,7 +38792,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr469" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P24"><text:span text:style-name="T16">&gt; Array Modification (Delete)</text:span></text:p>
+      <text:p text:style-name="P24"><text:span text:style-name="T16">&gt; Array Modification </text:span><text:span text:style-name="T16">(Delete)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr470" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
@@ -38865,7 +38917,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr474" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array Modification (Join)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array Modification </text:span><text:span text:style-name="T16">(Join)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr475" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
@@ -39008,7 +39060,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr479" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array Modification (Push)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array Modification </text:span><text:span text:style-name="T16">(Push)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr480" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
@@ -39117,7 +39169,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr484" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array Modification (Pop)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array Modification </text:span><text:span text:style-name="T16">(Pop)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr485" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
@@ -39259,7 +39311,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr489" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array Modification (Unshift)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array Modification </text:span><text:span text:style-name="T16">(Unshift)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr490" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
@@ -39359,7 +39411,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr494" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array Modification (Shift)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Array Modification </text:span><text:span text:style-name="T16">(Shift)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr495" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
@@ -39859,7 +39911,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr514" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Hash Modification (Delete)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Hash Modification </text:span><text:span text:style-name="T16">(Delete)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr515" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
@@ -40702,8 +40754,7 @@
       <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Method (tanpa <text:s/>parameter)</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Method (dengan parameter)</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Return Value</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Map</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Select</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T35">&gt; Perbedaan Puts dan Return Value</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T35"/></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T35"/></text:p>
      </draw:text-box>
@@ -41323,39 +41374,286 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page112" draw:style-name="dp10" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
+   <draw:page draw:name="page112" draw:style-name="dp9" draw:master-page-name="Default">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame draw:style-name="gr584" draw:text-style-name="P65" draw:layer="layout" svg:width="15.82cm" svg:height="3.35cm" svg:x="6.09cm" svg:y="8.825cm">
+    <draw:frame draw:style-name="gr584" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P64"><text:span text:style-name="T121"><text:s/></text:span><text:span text:style-name="T121">EXTENDED <text:s/></text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Perbedaan Puts &amp; Return</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <presentation:notes draw:style-name="dp2">
+    <draw:frame draw:style-name="gr585" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
+     <draw:text-box>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.0/Method.html</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr586" draw:text-style-name="P60" xml:id="id930" draw:id="id930" draw:layer="layout" svg:width="26.2cm" svg:height="7.226cm" svg:x="0.9cm" svg:y="6.104cm">
+     <draw:text-box>
+      <text:p xml:id="id931" text:id="id931" text:style-name="P11"><text:span text:style-name="T57">def</text:span><text:span text:style-name="T62"> halo</text:span></text:p>
+      <text:p xml:id="id932" text:id="id932" text:style-name="P11"><text:span text:style-name="T62"><text:s text:c="2"/></text:span><text:span text:style-name="T62">puts </text:span><text:span text:style-name="T119">&apos;Halo, saya </text:span><text:span text:style-name="T119">sedang belajar Ruby&apos;</text:span></text:p>
+      <text:p xml:id="id933" text:id="id933" text:style-name="P11"><text:span text:style-name="T57">end</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T57"/></text:p>
+      <text:p xml:id="id934" text:id="id934" text:style-name="P11"><text:span text:style-name="T66">halo</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T66"/></text:p>
+      <text:p xml:id="id935" text:id="id935" text:style-name="P11"><text:span text:style-name="T62">nilai = halo</text:span></text:p>
+      <text:p xml:id="id936" text:id="id936" text:style-name="P11"><text:span text:style-name="T62">puts nilai.class</text:span></text:p>
+      <text:p xml:id="id937" text:id="id937" text:style-name="P11"><text:span text:style-name="T62">puts nilai.reverse</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr587" draw:text-style-name="P61" draw:layer="layout" svg:width="26.4cm" svg:height="1.801cm" svg:x="0.8cm" svg:y="2.6cm">
+     <draw:text-box>
+      <text:p xml:id="id928" text:id="id928" text:style-name="P11"><text:span text:style-name="T62">Apa perbedaannya method yang </text:span><text:span text:style-name="T62">menggunakan puts, dengan method </text:span><text:span text:style-name="T62">yang menggunakan return</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr588" draw:text-style-name="P61" draw:layer="layout" svg:width="26.4cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="4.801cm">
+     <draw:text-box>
+      <text:p xml:id="id929" text:id="id929" text:style-name="P11"><text:span text:style-name="T62">Contoh method </text:span><text:span text:style-name="T56">yang</text:span><text:span text:style-name="T62"> </text:span><text:span text:style-name="T66">menggunakan puts</text:span><text:span text:style-name="T62"> sebagai nilai kembalian</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr589" draw:text-style-name="P60" xml:id="id938" draw:id="id938" draw:layer="layout" svg:width="26.2cm" svg:height="3.351cm" svg:x="0.9cm" svg:y="13.904cm">
+     <draw:text-box>
+      <text:p text:style-name="P63"><text:span text:style-name="T56">Halo, saya sedang belajar Ruby</text:span></text:p>
+      <text:p text:style-name="P63"><text:span text:style-name="T56">Halo, saya sedang belajar Ruby</text:span></text:p>
+      <text:p text:style-name="P63"><text:span text:style-name="T56">NilClass</text:span></text:p>
+      <text:p text:style-name="P63"><text:span text:style-name="T56">undefined method `reverse&apos; for </text:span><text:span text:style-name="T56">nil:NilClass (NoMethodError)</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <anim:par presentation:node-type="timing-root">
+     <anim:seq presentation:node-type="main-sequence">
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="2">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id928" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id929" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id930" anim:sub-item="background" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id931" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id932" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id933" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id934" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id935" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id936" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id937" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id938" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+     </anim:seq>
+    </anim:par>
+    <presentation:notes draw:style-name="dp11">
+     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="19.798cm" svg:height="11.136cm" svg:x="0.6cm" svg:y="2.257cm" draw:page-number="112" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr4" draw:text-style-name="P7" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+     <draw:frame presentation:style-name="pr4" draw:text-style-name="P29" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page113" draw:style-name="dp10" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
+   <draw:page draw:name="page113" draw:style-name="dp9" draw:master-page-name="Default">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame draw:style-name="gr585" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="3.092cm" svg:x="2.36cm" svg:y="8.954cm">
+    <draw:frame draw:style-name="gr590" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T55">File IO</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Perbedaan Puts &amp; Return</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <presentation:notes draw:style-name="dp2">
+    <draw:frame draw:style-name="gr591" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.196cm" svg:y="18.803cm">
+     <draw:text-box>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.0/Method.html</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr592" draw:text-style-name="P60" xml:id="id941" draw:id="id941" draw:layer="layout" svg:width="26.2cm" svg:height="7.226cm" svg:x="0.9cm" svg:y="6.104cm">
+     <draw:text-box>
+      <text:p xml:id="id942" text:id="id942" text:style-name="P11"><text:span text:style-name="T57">def</text:span><text:span text:style-name="T62"> halo</text:span></text:p>
+      <text:p xml:id="id943" text:id="id943" text:style-name="P11"><text:span text:style-name="T62"><text:s text:c="2"/></text:span><text:span text:style-name="T119">&apos;Halo, saya sedang belajar Ruby&apos;</text:span></text:p>
+      <text:p xml:id="id944" text:id="id944" text:style-name="P11"><text:span text:style-name="T57">end</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T57"/></text:p>
+      <text:p xml:id="id945" text:id="id945" text:style-name="P11"><text:span text:style-name="T66">halo</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T66"/></text:p>
+      <text:p xml:id="id946" text:id="id946" text:style-name="P11"><text:span text:style-name="T62">nilai = halo</text:span></text:p>
+      <text:p xml:id="id947" text:id="id947" text:style-name="P11"><text:span text:style-name="T62">puts nilai.class</text:span></text:p>
+      <text:p xml:id="id948" text:id="id948" text:style-name="P11"><text:span text:style-name="T62">puts nilai.reverse</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr593" draw:text-style-name="P61" draw:layer="layout" svg:width="26.4cm" svg:height="1.801cm" svg:x="0.8cm" svg:y="2.6cm">
+     <draw:text-box>
+      <text:p xml:id="id939" text:id="id939" text:style-name="P11"><text:span text:style-name="T62">Apa perbedaannya method yang menggunakan puts, dengan method yang menggunakan return</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr594" draw:text-style-name="P61" draw:layer="layout" svg:width="26.4cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="4.801cm">
+     <draw:text-box>
+      <text:p xml:id="id940" text:id="id940" text:style-name="P11"><text:span text:style-name="T62">Contoh method yang </text:span><text:span text:style-name="T66">tidak </text:span><text:span text:style-name="T66">menggunakan puts</text:span><text:span text:style-name="T62"> sebagai nilai </text:span><text:span text:style-name="T62">kembalian</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr595" draw:text-style-name="P60" xml:id="id949" draw:id="id949" draw:layer="layout" svg:width="26.2cm" svg:height="1.801cm" svg:x="0.9cm" svg:y="13.905cm">
+     <draw:text-box>
+      <text:p text:style-name="P63"><text:span text:style-name="T56">String</text:span></text:p>
+      <text:p text:style-name="P63"><text:span text:style-name="T56">ybuR rajaleb gnades ayas ,olaH</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr596" draw:text-style-name="P61" xml:id="id950" draw:id="id950" draw:layer="layout" svg:width="26.4cm" svg:height="1.801cm" svg:x="0.8cm" svg:y="16.4cm">
+     <draw:text-box>
+      <text:p text:style-name="P11"><text:span text:style-name="T62"> </text:span><text:span text:style-name="T62">Umunya, sebuah method tidak menggunakan puts sebagai</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T62"><text:s text:c="2"/></text:span><text:span text:style-name="T62">nilai kembalian</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <anim:par presentation:node-type="timing-root">
+     <anim:seq presentation:node-type="main-sequence">
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="2">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id939" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id940" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id941" anim:sub-item="background" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id942" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id943" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id944" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id945" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id946" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id947" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="1">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id948" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id949" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="-1">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id950" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+     </anim:seq>
+    </anim:par>
+    <presentation:notes draw:style-name="dp11">
+     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="19.798cm" svg:height="11.136cm" svg:x="0.6cm" svg:y="2.257cm" draw:page-number="113" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr4" draw:text-style-name="P7" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+     <draw:frame presentation:style-name="pr4" draw:text-style-name="P29" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page114" draw:style-name="dp10" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame draw:style-name="gr586" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="3.092cm" svg:x="2.36cm" svg:y="8.954cm">
+    <draw:frame draw:style-name="gr597" draw:text-style-name="P65" draw:layer="layout" svg:width="15.82cm" svg:height="3.35cm" svg:x="6.09cm" svg:y="8.825cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T55">Error Handling</text:span></text:p>
+      <text:p text:style-name="P64"><text:span text:style-name="T121"><text:s/></text:span><text:span text:style-name="T121">EXTENDED <text:s/></text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -41367,10 +41665,9 @@
    </draw:page>
    <draw:page draw:name="page115" draw:style-name="dp10" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame draw:style-name="gr587" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="5.933cm" svg:x="2.36cm" svg:y="7.534cm">
+    <draw:frame draw:style-name="gr598" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="3.092cm" svg:x="2.36cm" svg:y="8.954cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T13">.Object Oriented</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T13"><text:s/></text:span><text:span text:style-name="T13">Programming</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T55">File IO</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -41382,9 +41679,9 @@
    </draw:page>
    <draw:page draw:name="page116" draw:style-name="dp10" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame draw:style-name="gr588" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="3.092cm" svg:x="2.36cm" svg:y="8.954cm">
+    <draw:frame draw:style-name="gr599" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="3.092cm" svg:x="2.36cm" svg:y="8.954cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T55">Module</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T55">Error Handling</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -41394,20 +41691,49 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page117" draw:style-name="dp9" draw:master-page-name="Default">
+   <draw:page draw:name="page117" draw:style-name="dp10" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame draw:style-name="gr589" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
+    <draw:frame draw:style-name="gr600" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="5.933cm" svg:x="2.36cm" svg:y="7.534cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Tips mencari dengan Google</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13">.Object </text:span><text:span text:style-name="T13">Oriented</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13"><text:s/></text:span><text:span text:style-name="T13">Programming</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr590" draw:text-style-name="P66" draw:layer="layout" svg:width="26.2cm" svg:height="1.979cm" svg:x="0.8cm" svg:y="3.885cm">
+    <presentation:notes draw:style-name="dp2">
+     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="19.798cm" svg:height="11.136cm" svg:x="0.6cm" svg:y="2.257cm" draw:page-number="117" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr4" draw:text-style-name="P7" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page118" draw:style-name="dp10" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame draw:style-name="gr601" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="3.092cm" svg:x="2.36cm" svg:y="8.954cm">
      <draw:text-box>
-      <text:p text:style-name="P11"><text:span text:style-name="T122">Gunakan prefix “ruby” sebagai awalan kata kunci untu mencari di Google.</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T55">Module</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp2">
+     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="19.798cm" svg:height="11.136cm" svg:x="0.6cm" svg:y="2.257cm" draw:page-number="118" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr4" draw:text-style-name="P7" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page119" draw:style-name="dp9" draw:master-page-name="Default">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame draw:style-name="gr602" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
+     <draw:text-box>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Tips mencari dengan </text:span><text:span text:style-name="T16">Google</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr603" draw:text-style-name="P66" draw:layer="layout" svg:width="26.2cm" svg:height="1.979cm" svg:x="0.8cm" svg:y="3.885cm">
+     <draw:text-box>
+      <text:p text:style-name="P11"><text:span text:style-name="T122">Gunakan prefix “ruby” sebagai awalan kata kunci </text:span><text:span text:style-name="T122">untu mencari di Google.</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
-     <draw:custom-shape draw:style-name="gr591" draw:text-style-name="P8" draw:layer="layout" svg:width="24cm" svg:height="2.6cm" svg:x="2cm" svg:y="6.6cm">
+     <draw:custom-shape draw:style-name="gr604" draw:text-style-name="P8" draw:layer="layout" svg:width="24cm" svg:height="2.6cm" svg:x="2cm" svg:y="6.6cm">
       <text:p/>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:path-stretchpoint-x="10800" draw:path-stretchpoint-y="10800" draw:text-areas="?f3 ?f4 ?f5 ?f6" draw:type="round-rectangle" draw:modifiers="3600" draw:enhanced-path="M ?f7 0 X 0 ?f8 L 0 ?f9 Y ?f7 21600 L ?f10 21600 X 21600 ?f9 L 21600 ?f8 Y ?f10 0 Z N">
        <draw:equation draw:name="f0" draw:formula="45"/>
@@ -41424,25 +41750,25 @@
        <draw:handle draw:handle-position="$0 top" draw:handle-switched="true" draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="10800"/>
       </draw:enhanced-geometry>
      </draw:custom-shape>
-     <draw:frame draw:style-name="gr592" draw:text-style-name="P67" draw:layer="layout" svg:width="0.2cm" svg:height="2.317cm" svg:x="2.6cm" svg:y="6.7cm">
+     <draw:frame draw:style-name="gr605" draw:text-style-name="P67" draw:layer="layout" svg:width="0.2cm" svg:height="2.317cm" svg:x="2.6cm" svg:y="6.7cm">
       <draw:text-box>
        <text:p><text:span text:style-name="T123"></text:span></text:p>
       </draw:text-box>
      </draw:frame>
-     <draw:frame draw:style-name="gr593" draw:text-style-name="P68" draw:layer="layout" svg:width="20.4cm" svg:height="1.631cm" svg:x="4.4cm" svg:y="7cm">
+     <draw:frame draw:style-name="gr606" draw:text-style-name="P68" draw:layer="layout" svg:width="20.4cm" svg:height="1.631cm" svg:x="4.4cm" svg:y="7cm">
       <draw:text-box>
        <text:p text:style-name="P11"><text:span text:style-name="T124">ruby <text:s/></text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
-    <draw:frame draw:style-name="gr594" draw:text-style-name="P66" draw:layer="layout" svg:width="26.2cm" svg:height="1.979cm" svg:x="0.8cm" svg:y="9.986cm">
+    <draw:frame draw:style-name="gr607" draw:text-style-name="P66" draw:layer="layout" svg:width="26.2cm" svg:height="1.979cm" svg:x="0.8cm" svg:y="9.986cm">
      <draw:text-box>
-      <text:p text:style-name="P11"><text:span text:style-name="T122">Kemudian, diikuti dengan keyword apa yang mau dicari.</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T122">Kemudian, diikuti dengan keyword apa yang mau </text:span><text:span text:style-name="T122">dicari.</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T122">Misal, </text:span><text:span text:style-name="T125">tentang perulangan dengan method “each”</text:span><text:span text:style-name="T122">.</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
-     <draw:custom-shape draw:style-name="gr591" draw:text-style-name="P8" draw:layer="layout" svg:width="24cm" svg:height="2.6cm" svg:x="2.001cm" svg:y="12.801cm">
+     <draw:custom-shape draw:style-name="gr604" draw:text-style-name="P8" draw:layer="layout" svg:width="24cm" svg:height="2.6cm" svg:x="2.001cm" svg:y="12.801cm">
       <text:p/>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:path-stretchpoint-x="10800" draw:path-stretchpoint-y="10800" draw:text-areas="?f3 ?f4 ?f5 ?f6" draw:type="round-rectangle" draw:modifiers="3600" draw:enhanced-path="M ?f7 0 X 0 ?f8 L 0 ?f9 Y ?f7 21600 L ?f10 21600 X 21600 ?f9 L 21600 ?f8 Y ?f10 0 Z N">
        <draw:equation draw:name="f0" draw:formula="45"/>
@@ -41459,37 +41785,37 @@
        <draw:handle draw:handle-position="$0 top" draw:handle-switched="true" draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="10800"/>
       </draw:enhanced-geometry>
      </draw:custom-shape>
-     <draw:frame draw:style-name="gr592" draw:text-style-name="P67" draw:layer="layout" svg:width="0.2cm" svg:height="2.317cm" svg:x="2.601cm" svg:y="12.901cm">
+     <draw:frame draw:style-name="gr605" draw:text-style-name="P67" draw:layer="layout" svg:width="0.2cm" svg:height="2.317cm" svg:x="2.601cm" svg:y="12.901cm">
       <draw:text-box>
        <text:p><text:span text:style-name="T123"></text:span></text:p>
       </draw:text-box>
      </draw:frame>
-     <draw:frame draw:style-name="gr595" draw:text-style-name="P68" draw:layer="layout" svg:width="20.4cm" svg:height="1.631cm" svg:x="4.401cm" svg:y="13.201cm">
+     <draw:frame draw:style-name="gr608" draw:text-style-name="P68" draw:layer="layout" svg:width="20.4cm" svg:height="1.631cm" svg:x="4.401cm" svg:y="13.201cm">
       <draw:text-box>
        <text:p text:style-name="P11"><text:span text:style-name="T124">ruby each loop <text:s/></text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
-    <draw:frame draw:style-name="gr596" draw:text-style-name="P66" draw:layer="layout" svg:width="26.2cm" svg:height="1.979cm" svg:x="0.8cm" svg:y="16.187cm">
+    <draw:frame draw:style-name="gr609" draw:text-style-name="P66" draw:layer="layout" svg:width="26.2cm" svg:height="1.979cm" svg:x="0.8cm" svg:y="16.187cm">
      <draw:text-box>
-      <text:p text:style-name="P11"><text:span text:style-name="T122">Dengan cara ini, kita dapat membuat hasil pencarian yang lebih spesifik untuk bahasa pemrograman Ruby. </text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T122">Dengan cara ini, kita dapat membuat hasil </text:span><text:span text:style-name="T122">pencarian yang lebih spesifik untuk bahasa </text:span><text:span text:style-name="T122">pemrograman Ruby. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="19.798cm" svg:height="11.136cm" svg:x="0.6cm" svg:y="2.257cm" draw:page-number="117" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="19.798cm" svg:height="11.136cm" svg:x="0.6cm" svg:y="2.257cm" draw:page-number="119" presentation:class="page"/>
      <draw:frame presentation:style-name="pr4" draw:text-style-name="P29" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page118" draw:style-name="dp9" draw:master-page-name="Default">
+   <draw:page draw:name="page120" draw:style-name="dp9" draw:master-page-name="Default">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame draw:style-name="gr597" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
+    <draw:frame draw:style-name="gr610" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Referensi Belajar Ruby</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr598" draw:text-style-name="P69" draw:layer="layout" svg:width="11.95cm" svg:height="14.075cm" svg:x="1.05cm" svg:y="3.4cm">
+    <draw:frame draw:style-name="gr611" draw:text-style-name="P69" draw:layer="layout" svg:width="11.95cm" svg:height="14.075cm" svg:x="1.05cm" svg:y="3.4cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T122"> </text:span><text:span text:style-name="T122">YouTube:</text:span></text:p>
       <text:list text:style-name="L4">
@@ -41539,7 +41865,7 @@
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr599" draw:text-style-name="P69" draw:layer="layout" svg:width="11.95cm" svg:height="14.075cm" svg:x="14.35cm" svg:y="3.401cm">
+    <draw:frame draw:style-name="gr612" draw:text-style-name="P69" draw:layer="layout" svg:width="11.95cm" svg:height="14.075cm" svg:x="14.35cm" svg:y="3.401cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T122"> </text:span><text:span text:style-name="T122">Online Course:</text:span></text:p>
       <text:list text:style-name="L4">
@@ -41550,21 +41876,21 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="19.798cm" svg:height="11.136cm" svg:x="0.6cm" svg:y="2.257cm" draw:page-number="118" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="19.798cm" svg:height="11.136cm" svg:x="0.6cm" svg:y="2.257cm" draw:page-number="120" presentation:class="page"/>
      <draw:frame presentation:style-name="pr4" draw:text-style-name="P29" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page119" draw:style-name="dp9" draw:master-page-name="Default">
+   <draw:page draw:name="page121" draw:style-name="dp9" draw:master-page-name="Default">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame draw:style-name="gr600" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.719cm" svg:y="2.767cm">
+    <draw:frame draw:style-name="gr613" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.719cm" svg:y="2.767cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Referensi </text:span><text:span text:style-name="T126">Group</text:span><text:span text:style-name="T16"> Telegram </text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T16"><text:s text:c="2"/></text:span><text:span text:style-name="T16">untuk Bertanya seputar Ruby</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Referensi </text:span><text:span text:style-name="T126">Group</text:span><text:span text:style-name="T16"> </text:span><text:span text:style-name="T16">Telegram </text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16"><text:s text:c="2"/></text:span><text:span text:style-name="T16">untuk Bertanya seputar </text:span><text:span text:style-name="T16">Ruby</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr601" draw:text-style-name="P69" draw:layer="layout" svg:width="22cm" svg:height="3.2cm" svg:x="2.8cm" svg:y="6.9cm">
+    <draw:frame draw:style-name="gr614" draw:text-style-name="P69" draw:layer="layout" svg:width="22cm" svg:height="3.2cm" svg:x="2.8cm" svg:y="6.9cm">
      <draw:text-box>
       <text:list text:style-name="L5">
        <text:list-item>
@@ -41576,13 +41902,13 @@
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr602" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.72cm" svg:y="11.368cm">
+    <draw:frame draw:style-name="gr615" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.72cm" svg:y="11.368cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Referensi </text:span><text:span text:style-name="T126">Channel</text:span><text:span text:style-name="T16"> Telegram </text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T16"><text:s text:c="2"/></text:span><text:span text:style-name="T16">untuk Berita tentang Ruby</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16">&gt; Referensi </text:span><text:span text:style-name="T126">Channel</text:span><text:span text:style-name="T16"> </text:span><text:span text:style-name="T16">Telegram </text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T16"><text:s text:c="2"/></text:span><text:span text:style-name="T16">untuk Berita tentang </text:span><text:span text:style-name="T16">Ruby</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr603" draw:text-style-name="P69" draw:layer="layout" svg:width="22.6cm" svg:height="3.2cm" svg:x="2.8cm" svg:y="15.5cm">
+    <draw:frame draw:style-name="gr616" draw:text-style-name="P69" draw:layer="layout" svg:width="22.6cm" svg:height="3.2cm" svg:x="2.8cm" svg:y="15.5cm">
      <draw:text-box>
       <text:list text:style-name="L5">
        <text:list-item>
@@ -41592,20 +41918,20 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="19.798cm" svg:height="11.136cm" svg:x="0.6cm" svg:y="2.257cm" draw:page-number="119" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="19.798cm" svg:height="11.136cm" svg:x="0.6cm" svg:y="2.257cm" draw:page-number="121" presentation:class="page"/>
      <draw:frame presentation:style-name="pr4" draw:text-style-name="P29" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page120" draw:style-name="dp10" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
+   <draw:page draw:name="page122" draw:style-name="dp10" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame draw:style-name="gr604" draw:text-style-name="P70" draw:layer="layout" svg:width="21.62cm" svg:height="3.092cm" svg:x="3.19cm" svg:y="7.954cm">
+    <draw:frame draw:style-name="gr617" draw:text-style-name="P70" draw:layer="layout" svg:width="21.62cm" svg:height="3.092cm" svg:x="3.19cm" svg:y="7.954cm">
      <draw:text-box>
       <text:p text:style-name="P64"><text:span text:style-name="T127"><text:s/></text:span><text:span text:style-name="T127">:Terima_Kasih </text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr605" draw:text-style-name="P25" draw:layer="layout" svg:width="19.079cm" svg:height="2.843cm" svg:x="3.2cm" svg:y="11.457cm">
+    <draw:frame draw:style-name="gr618" draw:text-style-name="P25" draw:layer="layout" svg:width="19.079cm" svg:height="2.843cm" svg:x="3.2cm" svg:y="11.457cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T128">&gt; Made with  by Rizqi Nur Assyaufi</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T128"><text:s text:c="2"/></text:span><text:span text:style-name="T128">@BanditHijo</text:span></text:p>
@@ -41613,7 +41939,7 @@
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
-     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="19.798cm" svg:height="11.136cm" svg:x="0.6cm" svg:y="2.257cm" draw:page-number="120" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="19.798cm" svg:height="11.136cm" svg:x="0.6cm" svg:y="2.257cm" draw:page-number="122" presentation:class="page"/>
      <draw:frame presentation:style-name="pr4" draw:text-style-name="P29" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
