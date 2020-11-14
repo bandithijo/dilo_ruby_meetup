@@ -15,7 +15,7 @@ layout: default
 ## 📑 HANDOUT
 
 **Catatan**: <br>
-Materi-materi pada handout ini, masih dalam proses developing.
+Materi-materi pada handout ini, sudah siap! 👍
 
 ⬇️ [<mark><b>Presentation Handout</b> (PDF) </mark>](/presentation/dilo_ruby-for-beginner_handout.pdf)
 
