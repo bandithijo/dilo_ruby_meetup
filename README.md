@@ -96,19 +96,17 @@ Materi-materi pada handout ini, masih dalam proses developing.
 10. **Looping**
     - [ ] For
     - [ ] Each
+    - [ ] While
+    - [ ] While
     - [ ] Map
     - [ ] Select
-    - [ ] While
 11. **Method**
-    - [ ] Introduction of method
+    - [ ] Method (tanpa  parameter)
+    - [ ] Method (dengan parameter)
     - [ ] Return value
-    - [ ] Dalam kurung adalah opsional
     - [ ] Perbedaan puts & return value
-    - [ ] Proc
-    - [ ] Lambda
     - [ ] Default parameter value
     - [ ] Named parameter
-    - [ ] Splat
 
     <br><b>Topik tambahan...</b>
 
